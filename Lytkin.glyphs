@@ -2,10 +2,50 @@
 .appVersion = "3436";
 .formatVersion = 3;
 DisplayStrings = (
-".н.aa.н..н.ab.н..н.ac.н..н.aꞓ.н..н.ad.н..н.aď.н..н.aḑ.н..н.ae.н..н.aə.н..н.aʒ.н..н.af.н..н.ag.н..н.ah.н..н.ai.н..н.aı.н..н.aj.н..н.ał.н..н.am.н..н.aꞑ.н..н.ao.н..н.ap.н..н.aq.н..н.ar.н..н.as.н..н.aꞩ.н..н.at.н..н.ať.н..н.aţ.н..н.au.н..н.av.н..н.aw.н..н.ax.н..н.a
+"нн.aa.н..н.ab.н..н.ac.н..н.aꞓ.н..н.ad.н..н.aď.н..н.aḑ.н..н.ae.н..н.aə.н..н.aʒ.н..н.af.н..н.ag.н..н.ah.н..н.ai.н..н.aı.н..н.aj.н..н.ał.н..н.am.н..н.aꞑ.н..н.ao.н..н.ap.н..н.aq.н..н.ar.н..н.as.н..н.aꞩ.н..н.at.н..н.ať.н..н.aţ.н..н.au.н..н.av.н..н.aw.н..н.ax.н..н.a
 y.н..н.az.н..н.aƶ.н..н.ba.н..н.bb.н..н.bc.н..н.bꞓ.н..н.bd.н..н.bď.н..н.bḑ.н..н.be.н..н.bə.н..н.bʒ.н..н.bf.н..н.bg.н..н.bh.н..н.bi.н..н.bı.н..н.bj.н..н.bł.н..н.bm.н..н.bꞑ.н..н.bo.н..н.bp.н..н.bq.н..н.br.н..н.bs.н..н.bꞩ.н..н.bt.н..н.bť.н..н.bţ.н..н.bu.н..н.bv.н..н.bw.н..н.bx.н..н.by.н..н.bz.н..н.bƶ.н..н.ca.н..н.cb.н..н.cc.н..н.cꞓ.н..н.cd.н..н.cď.н..н.cḑ.н..н.ce.н..н.cə.н..н.cʒ.н..н.cf.н..н.cg.н..н.ch.н..н.ci.н..н.cı.н..н.cj.н..н.cł.н..н.cm.н..н.cꞑ.н..н.co.н..н.cp.н..н.cq.н..н.cr.н..н.cs.н..н.cꞩ.н..н.ct.н..н.cť.н..н.cţ.н..н.cu.н..н.cv.н..н.cw.н..н.cx.н..н.cy.н..н.cz.н..н.cƶ.н..н.ꞓa.н..н.ꞓb.н..н.ꞓc.н..н.ꞓꞓ.н..н.ꞓd.н..н.ꞓď.н..н.ꞓḑ.н..н.ꞓe.н..н.ꞓə.н..н.ꞓʒ.н..н.ꞓf.н..н.ꞓg.н..н.ꞓh.н..н.ꞓi.н..н.ꞓı.н..н.ꞓj.н..н.ꞓł.н..н.ꞓm.н..н.ꞓꞑ.н..н.ꞓo.н..н.ꞓp.н..н.ꞓq.н..н.ꞓr.н..н.ꞓs.н..н.ꞓꞩ.н..н.ꞓt.н..н.ꞓť.н..н.ꞓţ.н..н.ꞓu.н..н.ꞓv.н..н.ꞓw.н..н.ꞓx.н..н.ꞓy.н..н.ꞓz.н..н.ꞓƶ.н..н.da.н..н.db.н..н.dc.н..н.dꞓ.н..н.dd.н..н.dď.н..н.dḑ.н..н.de.н..н.də.н..н.dʒ.н..н.df.н..н.dg.н..н.dh.н..н.di.н..н.dı.н..н.dj.н..н.dł.н..н.dm.н..н.dꞑ.н..н.do.н..н.dp.н..н.dq.н..н.dr.н..н.ds.н..н.dꞩ.н..н.dt.н..н.dť.н..н.dţ.н..н.du.н..н.dv.н..н.dw.н..н.dx.н..н.dy.н..н.dz.н..н.dƶ.н..н.ďa.н..н.ďb.н..н.ďc.н..н.ďꞓ.н..н.ďd.н..н.ďď.н..н.ďḑ.н..н.ďe.н..н.ďə.н..н.ďʒ.н..н.ďf.н..н.ďg.н..н.ďh.н..н.ďi.н..н.ďı.н..н.ďj.н..н.ďł.н..н.ďm.н..н.ďꞑ.н..н.ďo.н..н.ďp.н..н.ďq.н..н.ďr.н..н.ďs.н..н.ďꞩ.н..н.ďt.н..н.ďť.н..н.ďţ.н..н.ďu.н..н.ďv.н..н.ďw.н..н.ďx.н..н.ďy.н..н.ďz.н..н.ďƶ.н..н.ḑa.н..н.ḑb.н..н.ḑc.н..н.ḑꞓ.н..н.ḑd.н..н.ḑď.н..н.ḑḑ.н..н.ḑe.н..н.ḑə.н..н.ḑʒ.н..н.ḑf.н..н.ḑg.н..н.ḑh.н..н.ḑi.н..н.ḑı.н..н.ḑj.н..н.ḑł.н..н.ḑm.н..н.ḑꞑ.н..н.ḑo.н..н.ḑp.н..н.ḑq.н..н.ḑr.н..н.ḑs.н..н.ḑꞩ.н..н.ḑt.н..н.ḑť.н..н.ḑţ.н..н.ḑu.н..н.ḑv.н..н.ḑw.н..н.ḑx.н..н.ḑy.н..н.ḑz.н..н.ḑƶ.н..н.ea.н..н.eb.н..н.ec.н..н.eꞓ.н..н.ed.н..н.eď.н..н.eḑ.н..н.ee.н..н.eə.н..н.eʒ.н..н.ef.н..н.eg.н..н.eh.н..н.ei.н..н.eı.н..н.ej.н..н.eł.н..н.em.н..н.eꞑ.н..н.eo.н..н.ep.н..н.eq.н..н.er.н..н.es.н..н.eꞩ.н..н.et.н..н.eť.н..н.eţ.н..н.eu.н..н.e.v.н..н.eo.w.н..н.e.x.н..н.e.y.н..н.ez.н..н.eƶ.н..н.əa.н..н.əb.н..н.əc.н..н.əꞓ.н..н.əd.н..н.əď.н..н.əḑ.н..н.əe.н..н.əə.н..н.əʒ.н..н.ə.f.н..н.əg.н..н.əh.н..н.əi.н..н.əı.н..н.əj.н..н.əł.н..н.əm.н..н.əꞑ.н..н.əo.н..н.əp.н..н.əq.н..н.ər.н..н.əs.н..н.əꞩ.н..н.ət.н..н.əť.н..н.əţ.н..н.əu.н..н.əv.н..н.əw.н..н.əx.н..н.əy.н..н.əz.н..н.əƶ.н..н.ʒa.н..н.ʒb.н..н.ʒc.н..н.ʒꞓ.н..н.ʒd.н..н.ʒď.н..н.ʒḑ.н..н.ʒe.н..н.ʒə.н..н.ʒʒ.н..н.ʒf.н..н.ʒg.н..н.ʒh.н..н.ʒi.н..н.ʒı.н..н.ʒj.н..н.ʒł.н..н.ʒm.н..н.ʒꞑ.н..н.ʒo.н..н.ʒp.н..н.ʒq.н..н.ʒr.н..н.ʒs.н..н.ʒꞩ.н..н.ʒt.н..н.ʒť.н..н.ʒţ.н..н.ʒu.н..н.ʒv.н..н.ʒw.н..н.ʒx.н..н.ʒy.н..н.ʒz.н..н.ʒƶ.н..н.fa.н..н.fb.н..н.fc.н..н.fꞓ.н..н.fd.н..н.fď.н..н.fḑ.н..н.fe.н..н.fə.н..н.fʒ.н..н.ff.н..н.fg.н..н.fh.н..н.fi.н..н.fı.н..н.fj.н..н.fł.н..н.fm.н..н.fꞑ.н..н.fo.н..н.fp.н..н.fq.н..н.fr.н..н.fs.н..н.fꞩ.н..н.ft.н..н.fť.н..н.fţ.н..н.fu.н..н.fv.н..н.fw.н..н.fx.н..н.fy.н..н.fz.н..н.fƶ.н..н.ga.н..н.gb.н..н.gc.н..н.gꞓ.н..н.gd.н..н.gď.н..н.gḑ.н..н.ge.н..н.gə.н..н.gʒ.н..н.gf.н..н.gg.н..н.gh.н..н.gi.н..н.gı.н..н.gj.н..н.g.ł.н..н.gm.н..н.gꞑ.н..н.go.н..н.gp.н..н.gq.н..н.gr.н..н.gs.н..н.gꞩ.н..н.gt.н..н.gť.н..н.gţ.н..н.gu.н..н.gv.н..н.gw.н..н.gx.н..н.gy.н..н.gz.н..н.gƶ.н..н.ha.н..н.hb.н..н.hc.н..н.hꞓ.н..н.hd.н..н.hď.н..н.hḑ.н..н.he.н..н.hə.н..н.hʒ.н..н.hf.н..н.hg.н..н.hh.н..н.hi.н..н.hı.н..н.hj.н..н.hł.н..н.hm.н..н.hꞑ.н..н.ho.н..н.hp.н..н.hq.н..н.hr.н..н.hs.н..н.hꞩ.н..н.ht.н..н.hť.н..н.hţ.н..н.hu.н..н.hv.н..н.hw.н..н.hx.н..н.hy.н..н.hz.н..н.hƶ.н..н.ia.н..н.ib.н..н.ic.н..н.iꞓ.н..н.id.н..н.iď.н..н.iḑ.н..н.ie.н..н.i.ə.н..н.i.ʒ.н..н.if.н..н.ig.н..н.ih.н..н.ii.н..н.iı.н..н.ij.н..н.ił.н..н.im.н..н.iꞑ.н..н.io.н..н.ip.н..н.iq.н..н.ir.н..н.is.н..н.iꞩ.н..н.it.н..н.iť.н..н.iţ.н..н.iu.н..н.iv.н..н.iw.н..н.ix.н..н.iy.н..н.iz.н..н.iƶ.н..н.ıa.н..н.ıb.н..н.ıc.н..н.ıꞓ.н..н.ıd.н..н.ıď.н..н.ıḑ.н..н.ıe.н..н.ıə.н..н.ıʒ.н..н.ıf.н..н.ıg.н..н.ıh.н..н.ıi.н..н.ıı.н..н.ıj.н..н.ıł.н..н.ım.н..н.ıꞑ.н..н.ıo.н..н.ıp.н..н.ıq.н..н.ır.н..н.ıs.н..н.ıꞩ.н..н.ı.t.н..н.ıť.н..н.ıţ.н..н.ıu.н..н.ıv.н..н.ıw.н..н.ıx.н..н.ıy.н..н.ız.н..н.ıƶ.н..н.ja.н..н.jb.н..н.jc.н..н.jꞓ.н..н.jd.н..н.jď.н..н.jḑ.н..н.je.н..н.jə.н..н.jʒ.н..н.jf.н..н.jg.н..н.jh.н..н.ji.н..н.jı.н..н.jj.н..н.jł.н..н.jm.н..н.jꞑ.н..н.jo.н..н.jp.н..н.jq.н..н.jr.н..н.js.н..н.jꞩ.н..н.jt.н..н.jť.н..н.jţ.н..н.ju.н..н.jv.н..н.jw.н..н.jx.н..н.jy.н..н.jz.н..н.jƶ.н..н.ła.н..н.łb.н..н.łc.н..н.łꞓ.н..н.łd.н..н.łď.н..н.łḑ.н..н.łe.н..н.łə.н..н.łʒ.н..н.łf.н..н.łg.н..н.łh.н..н.łi.н..н.łı.н..н.łj.н..н.łł.н..н.łm.н..н.łꞑ.н..н.ło.н..н.łp.н..н.łq.н..н.łr.н..н.łs.н..н.łꞩ.н..н.łt.н..н.łť.н..н.łţ.н..н.łu.н..н.łv.н..н.łw.н..н.łx.н..н.ły.н..н.łz.н..н.łƶ.н..н.ma.н..н.mb.н..н.mc.н..н.mꞓ.н..н.md.н..н.mď.н..н.mḑ.н..н.me.н..н.mə.н..н.mʒ.н..н.mf.н..н.mg.н..н.mh.н..н.mi.н..н.mı.н..н.mj.н..н.mł.н..н.mm.н..н.mꞑ.н..н.m.o.н..н.mp.н..н.mq.н..н.mr.н..н.ms.н..н.mꞩ.н..н.mt.н..н.mť.н..н.mţ.н..н.mu.н..н.mv.н..н.mw.н..н.mx.н..н.my.н..н.mz.н..н.mƶ.н..н.ꞑa.н..н.ꞑb.н..н.ꞑc.н..н.ꞑꞓ.н..н.ꞑd.н..н.ꞑď.н..н.ꞑḑ.н..н.ꞑe.н..н.ꞑə.н..н.ꞑʒ.н..н.ꞑf.н..н.ꞑg.н..н.ꞑh.н..н.ꞑi.н..н.ꞑı.н..н.ꞑj.н..н.ꞑł.н..н.ꞑm.н..н.ꞑꞑ.н..н.ꞑo.н..н.ꞑp.н..н.ꞑq.н..н.ꞑr.н..н.ꞑs.н..н.ꞑꞩ.н..н.ꞑt.н..н.ꞑť.н..н.ꞑţ.н..н.ꞑu.н..н.ꞑv.н..н.ꞑw.н..н.ꞑx.н..н.ꞑy.н..н.ꞑz.н..н.ꞑƶ.н..н.oa.н..н.ob.н..н.oc.н..н.oꞓ.н..н.od.н..н.oď.н..н.oḑ.н..н.oe.н..н.oə.н..н.oʒ.н..н.of.н..н.og.н..н.oh.н..н.oi.н..н.oı.н..н.oj.н..н.oł.н..н.om.н..н.oꞑ.н..н.oo.н..н.op.н..н.oq.н..н.or.н..н.os.н..н.oꞩ.н..н.ot.н..н.oť.н..н.oţ.н..н.ou.н..н.ov.н..н.ow.н..н.ox.н..н.oy.н..н.oz.н..н.oƶ.н..н.pa.н..н.pb.н..н.pc.н..н.pꞓ.н..н.pd.н..н.pď.н..н.pḑ.н..н.pe.н..н.pə.н..н.pʒ.н..н.pf.н..н.pg.н..н.ph.н..н.pi.н..н.pı.н..н.pj.н..н.pł.н..н.pm.н..н.pꞑ.н..н.po.н..н.pp.н..н.pq.н..н.pr.н..н.ps.н..н.pꞩ.н..н.pt.н..н.pť.н..н.pţ.н..н.pu.н..н.pv.н..н.pw.н..н.px.н..н.py.н..н.pz.н..н.pƶ.н..н.qa.н..н.qb.н..н.qc.н..н.qꞓ.н..н.qd.н..н.qď.н..н.qḑ.н..н.qe.н..н.qə.н..н.qʒ.н..н.qf.н..н.qg.н..н.qh.н..н.qi.н..н.qı.н..н.qj.н..н.qł.н..н.qm.н..н.qꞑ.н..н.qo.н..н.qp.н..н.qq.н..н.qr.н..н.qs.н..н.qꞩ.н..н.qt.н..н.qť.н..н.qţ.н..н.qu.н..н.qv.н..н.qw.н..н.qx.н..н.qy.н..н.qz.н..н.qƶ.н..н.ra.н..н.rb.н..н.rc.н..н.rꞓ.н..н.rd.н..н.rď.н..н.rḑ.н..н.re.н..н.rə.н..н.rʒ.н..н.rf.н..н.rg.н..н.rh.н..н.ri.н..н.rı.н..н.rj.н..н.rł.н..н.rm.н..н.rꞑ.н..н.ro.н..н.rp.н..н.rq.н..н.rr.н..н.rs.н..н.rꞩ.н..н.rt.н..н.rť.н..н.rţ.н..н.ru.н..н.rv.н..н.rw.н..н.rx.н..н.ry.н..н.rz.н..н.rƶ.н..н.sa.н..н.sb.н..н.sc.н..н.sꞓ.н..н.sd.н..н.sď.н..н.sḑ.н..н.se.н..н.sə.н..н.sʒ.н..н.sf.н..н.sg.н..н.sh.н..н.si.н..н.sı.н..н.sj.н..н.sł.н..н.sm.н..н.sꞑ.н..н.so.н..н.sp.н..н.sq.н..н.sr.н..н.ss.н..н.sꞩ.н..н.st.н..н.sť.н..н.sţ.н..н.su.н..н.sv.н..н.sw.н..н.sx.н..н.sy.н..н.sz.н..н.sƶ.н..н.ꞩa.н..н.ꞩb.н..н.ꞩc.н..н.ꞩꞓ.н..н.ꞩd.н..н.ꞩď.н..н.ꞩḑ.н..н.ꞩe.н..н.ꞩə.н..н.ꞩʒ.н..н.ꞩf.н..н.ꞩg.н..н.ꞩh.н..н.ꞩi.н..н.ꞩı.н..н.ꞩj.н..н.ꞩł.н..н.ꞩm.н..н.ꞩꞑ.н..н.ꞩo.н..н.ꞩp.н..н.ꞩq.н..н.ꞩr.н..н.ꞩs.н..н.ꞩꞩ.н..н.ꞩt.н..н.ꞩť.н..н.ꞩţ.н..н.ꞩu.н..н.ꞩv.н..н.ꞩw.н..н.ꞩx.н..н.ꞩy.н..н.ꞩz.н..н.ꞩƶ.н..н.ta.н..н.tb.н..н.tc.н..н.tꞓ.н..н.td.н..н.tď.н..н.tḑ.н..н.te.н..н.tə.н..н.tʒ.н..н.tf.н..н.tg.н..н.th.н..н.ti.н..н.tı.н..н.tj.н..н.tł.н..н.tm.н..н.tꞑ.н..н.to.н..н.tp.н..н.tq.н..н.tr.н..н.ts.н..н.tꞩ.н..н.tt.н..н.tť.н..н.tţ.н..н.tu.н..н.tv.н..н.tw.н..н.tx.н..н.ty.н..н.tz.н..н.tƶ.н..н.ťa.н..н.ťb.н..н.ťc.н..н.ťꞓ.н..н.ťd.н..н.ťď.н..н.ťḑ.н..н.ťe.н..н.ťə.н..н.ťʒ.н..н.ťf.н..н.ťg.н..н.ťh.н..н.ťi.н..н.ťı.н..н.ťj.н..н.ťł.н..н.ťm.н..н.ťꞑ.н..н.ťo.н..н.ťp.н..н.ťq.н..н.ťr.н..н.ťs.н..н.ťꞩ.н..н.ťt.н..н.ťť.н..н.ťţ.н..н.ťu.н..н.ťv.н..н.ťw.н..н.ťx.н..н.ťy.н..н.ťz.н..н.ťƶ.н..н.ţa.н..н.ţb.н..н.ţc.н..н.ţꞓ.н..н.ţd.н..н.ţď.н..н.ţḑ.н..н.ţe.н..н.ţə.н..н.ţʒ.н..н.ţf.н..н.ţg.н..н.ţh.н..н.ţi.н..н.ţı.н..н.ţj.н..н.ţł.н..н.ţm.н..н.ţꞑ.н..н.ţo.н..н.ţp.н..н.ţq.н..н.ţr.н..н.ţs.н..н.ţꞩ.н..н.ţt.н..н.ţť.н..н.ţţ.н..н.ţu.н..н.ţv.н..н.ţw.н..н.ţx.н..н.ţy.н..н.ţz.н..н.ţƶ.н..н.ua.н..н.ub.н..н.uc.н..н.uꞓ.н..н.ud.н..н.uď.н..н.uḑ.н..н.ue.н..н.uə.н..н.uʒ.н..н.uf.н..н.ug.н..н.uh.н..н.ui.н..н.uı.н..н.uj.н..н.uł.н..н.um.н..н.uꞑ.н..н.uo.н..н.up.н..н.uq.н..н.ur.н..н.us.н..н.uꞩ.н..н.ut.н..н.uť.н..н.uţ.н..н.uu.н..н.uv.н..н.uw.н..н.ux.н..н.uy.н..н.uz.н..н.uƶ.н..н.va.н..н.vb.н..н.vc.н..н.vꞓ.н..н.vd.н..н.vď.н..н.vḑ.н..н.ve.н..н.və.н..н.vʒ.н..н.vf.н..н.vg.н..н.vh.н..н.vi.н..н.vı.н..н.vj.н..н.vł.н..н.vm.н..н.vꞑ.н..н.vo.н..н.vp.н..н.vq.н..н.vr.н..н.vs.н..н.vꞩ.н..н.vt.н..н.vť.н..н.vţ.н..н.vu.н..н.vv.н..н.vw.н..н.vx.н..н.vy.н..н.vz.н..н.vƶ.н..н.wa.н..н.wb.н..н.wc.н..н.wꞓ.н..н.wd.н..н.wď.н..н.wḑ.н..н.we.н..н.wə.н..н.wʒ.н..н.wf.н..н.wg.н..н.wh.н..н.wi.н..н.wı.н..н.wj.н..н.wł.н..н.wm.н..н.wꞑ.н..н.wo.н..н.wp.н..н.wq.н..н.wr.н..н.ws.н..н.wꞩ.н..н.wt.н..н.wť.н..н.wţ.н..н.wu.н..н.wv.н..н.ww.н..н.wx.н..н.wy.н..н.wz.н..н.wƶ.н..н.xa.н..н.xb.н..н.xc.н..н.xꞓ.н..н.xd.н..н.xď.н..н.xḑ.н..н.xe.н..н.xə.н..н.xʒ.н..н.xf.н..н.xg.н..н.xh.н..н.xi.н..н.xı.н..н.xj.н..н.xł.н..н.xm.н..н.xꞑ.н..н.xo.н..н.xp.н..н.xq.н..н.xr.н..н.xs.н..н.xꞩ.н..н.xt.н..н.xť.н..н.xţ.н..н.xu.н..н.xv.н..н.xw.н..н.xx.н..н.xy.н..н.xz.н..н.xƶ.н..н.ya.н..н.yb.н..н.yc.н..н.yꞓ.н..н.yd.н..н.yď.н..н.yḑ.н..н.ye.н..н.yə.н..н.yʒ.н..н.yf.н..н.yg.н..н.yh.н..н.yi.н..н.yı.н..н.yj.н..н.ył.н..н.ym.н..н.yꞑ.н..н.yo.н..н.yp.н..н.yq.н..н.yr.н..н.ys.н..н.yꞩ.н..н.yt.н..н.yť.н..н.yţ.н..н.yu.н..н.yv.н..н.yw.н..н.yx.н..н.yy.н..н.yz.н..н.yƶ.н..н.za.н..н.zb.н..н.zc.н..н.zꞓ.н..н.zd.н..н.zď.н..н.zḑ.н..н.ze.н..н.zə.н..н.zʒ.н..н.zf.н..н.zg.н..н.zh.н..н.zi.н..н.zı.н..н.zj.н..н.zł.н..н.zm.н..н.zꞑ.н..н.zo.н..н.zp.н..н.zq.н..н.zr.н..н.zs.н..н.zꞩ.н..н.zt.н..н.zť.н..н.zţ.н..н.zu.н..н.zv.н..н.zw.н..н.zx.н..н.zy.н..н.zz.н..н.zƶ.н..н.ƶa.н..н.ƶb.н..н.ƶc.н..н.ƶꞓ.н..н.ƶd.н..н.ƶď.н..н.ƶḑ.н..н.ƶe.н..н.ƶə.н..н.ƶʒ.н..н.ƶf.н..н.ƶg.н..н.ƶh.н..н.ƶi.н..н.ƶı.н..н.ƶj.н..н.ƶł.н..н.ƶm.н..н.ƶꞑ.н..н.ƶo.н..н.ƶp.н..н.ƶq.н..н.ƶr.н..н.ƶs.н..н.ƶꞩ.н..н.ƶt.н..н.ƶť.н..н.ƶţ.н..н.ƶu.н..н.ƶv.н..н.ƶw.н..н.ƶx.н..н.ƶy.н..н.ƶz.н..н.ƶƶ.н.",
-"нннxꞓннннхснннн
-.н.s.н.o.н.c.н."
+",нaa,н,нab,н,нac,н,нaꞓ,н,нad,н,нaď,н,нaḑ,н,нae,н,нaə,н,нaʒ,н,нaf,н,нag,н,нah,н,нai,н,нaı,н,нaj,н,нał,н,нam,н,нaꞑ,н,нao,н,нap,н,нaq,н,нar,н,нas,н,нaꞩ,н,нat,н,нať,н,нaţ,н,нau,н,нav,н,нaw,н,нax,н,нay,н,нaz,н,нaƶ,н,нba,н,нbb,н,нbc,н,нbꞓ,н,нbd,н,нbď,н,нbḑ,н,нbe,н,нbə,н,нbʒ,н,нbf,н,нbg,н,нbh,н,нbi,н,нbı,н,нbj,н,нbł,н,нbm,н,нbꞑ,н,нbo,н,нbp,н,нbq,н,нbr,н,нbs,н,нbꞩ,н,нbt,н,нbť,н,нbţ,н,нbu,н,нbv,н,нbw,н,нbx,н,нby,н,нbz,н,нbƶ,н,нca,н,нcb,н,нcc,н,нcꞓ,н,нcd,н,нcď,н,нcḑ,н,нce,н,нcə,н,нcʒ,н,нcf,н,нcg,н,нch,н,нci,н,нcı,н,нcj,н,нcł,н,нcm,н,нcꞑ,н,нco,н,нcp,н,нcq,н,нcr,н,нcs,н,нcꞩ,н,нct,н,нcť,н,нcţ,н,нcu,н,нcv,н,нcw,н,нcx,н,нcy,н,нcz,н,нcƶ,н,нꞓa,н,нꞓb,н,нꞓc,н,нꞓꞓ,н,нꞓd,н,нꞓď,н,нꞓḑ,н,нꞓe,н,нꞓə,н,нꞓʒ,н,нꞓf,н,нꞓg,н,нꞓh,н,нꞓi,н,нꞓı,н,нꞓj,н,нꞓł,н,нꞓm,н,нꞓꞑ,н,нꞓo,н,нꞓp,н,нꞓq,н,нꞓr,н,нꞓs,н,нꞓꞩ,н,нꞓt,н,нꞓť,н,нꞓţ,н,нꞓu,н,нꞓv,н,нꞓw,н,нꞓx,н,нꞓy,н,нꞓz,н,нꞓƶ,н,нda,н,нdb,н,нdc,н,нdꞓ,н,нdd,н,нdď,н,нdḑ,н,нde,н,нdə,н,нdʒ,н,нdf,н,нdg,н,нdh,н,нdi,н,нdı,н,нdj,н,нdł,н,нdm,н,нdꞑ,н,нdo,н,нdp,н,нdq,н,нdr,н,нds,н,нdꞩ,н,нdt,н,нdť,н,нdţ,н,нdu,н,нdv,н,нdw,н,нdx,н,нdy,н,нdz,н,нdƶ,н,нďa,н,нďb,н,нďc,н,нďꞓ,н,нďd,н,нďď,н,нďḑ,н,нďe,н,нďə,н,нďʒ,н,нďf,н,нďg,н,нďh,н,нďi,н,нďı,н,нďj,н,нďł,н,нďm,н,нďꞑ,н,нďo,н,нďp,н,нďq,н,нďr,н,нďs,н,нďꞩ,н,нďt,н,нďť,н,нďţ,н,нďu,н,нďv,н,нďw,н,нďx,н,нďy,н,нďz,н,нďƶ,н,нḑa,н,нḑb,н,нḑc,н,нḑꞓ,н,нḑd,н,нḑď,н,нḑḑ,н,нḑe,н,нḑə,н,нḑʒ,н,нḑf,н,нḑg,н,нḑh,н,нḑi,н,нḑı,н,нḑj,н,нḑł,н,нḑm,н,нḑꞑ,н,нḑo,н,нḑp,н,нḑq,н,нḑr,н,нḑs,н,нḑꞩ,н,нḑt,н,нḑť,н,нḑţ,н,нḑu,н,нḑv,н,нḑw,н,нḑx,н,нḑy,н,нḑz,н,нḑƶ,н,нea,н,нeb,н,нec,н,нeꞓ,н,нed,н,нeď,н,нeḑ,н,нee,н,нeə,н,нeʒ,н,нef,н,нeg,н,нeh,н,нei,н,нeı,н,нej,н,нeł,н,нem,н,нeꞑ,н,нeo,н,нep,н,нeq,н,нer,н,нes,н,нeꞩ,н,нet,н,нeť,н,нeţ,н,нeu,н,нev,н,нew,н,нex,н,нey,н,нez,н,нeƶ,н,нəa,н,нəb,н,нəc,н,нəꞓ,н,нəd,н,нəď,н,нəḑ,н,нəe,н,нəə,н,нəʒ,н,нəf,н,нəg,н,нəh,н,нəi,н,нəı,н,нəj,н,нəł,н,нəm,н,нəꞑ,н,нəo,н,нəp,н,нəq,н,нər,н,нəs,н,нəꞩ,н,нət,н,нəť,н,нəţ,н,нəu,н,нəv,н,нəw,н,нəx,н,нəy,н,нəz,н,нəƶ,н,нʒa,н,нʒb,н,нʒc,н,нʒꞓ,н,нʒd,н,нʒď,н,нʒḑ,н,нʒe,н,нʒə,н,нʒʒ,н,нʒf,н,нʒg,н,нʒh,н,нʒi,н,нʒı,н,нʒj,н,нʒł,н,нʒm,н,нʒꞑ,н,нʒo,н,нʒp,н,нʒq,н,нʒr,н,нʒs,н,нʒꞩ,н,нʒt,н,нʒť,н,нʒţ,н,нʒu,н,нʒv,н,нʒw,н,нʒx,н,нʒy,н,нʒz,н,нʒƶ,н,нfa,н,нfb,н,нfc,н,нfꞓ,н,нfd,н,нfď,н,нfḑ,н,нfe,н,нfə,н,нfʒ,н,нff,н,нfg,н,нfh,н,нfi,н,нfı,н,нfj,н,нfł,н,нfm,н,нfꞑ,н,нfo,н,нfp,н,нfq,н,нfr,н,нfs,н,нfꞩ,н,нft,н,нfť,н,нfţ,н,нfu,н,нfv,н,нfw,н,нfx,н,нfy,н,нfz,н,нfƶ,н,нga,н,нgb,н,нgc,н,нgꞓ,н,нgd,н,нgď,н,нgḑ,н,нge,н,нgə,н,нgʒ,н,нgf,н,нgg,н,нgh,н,нgi,н,нgı,н,нgj,н,нgł,н,нgm,н,нgꞑ,н,нgo,н,нgp,н,нgq,н,нgr,н,нgs,н,нgꞩ,н,нgt,н,нgť,н,нgţ,н,нgu,н,нgv,н,нgw,н,нgx,н,нgy,н,нgz,н,нgƶ,н,нha,н,нhb,н,нhc,н,нhꞓ,н,нhd,н,нhď,н,нhḑ,н,нhe,н,нhə,н,нhʒ,н,нhf,н,нhg,н,нhh,н,нhi,н,нhı,н,нhj,н,нhł,н,нhm,н,нhꞑ,н,нho,н,нhp,н,нhq,н,нhr,н,нhs,н,нhꞩ,н,нht,н,нhť,н,нhţ,н,нhu,н,нhv,н,нhw,н,нhx,н,нhy,н,нhz,н,нhƶ,н,нia,н,нib,н,нic,н,нiꞓ,н,нid,н,нiď,н,нiḑ,н,нie,н,нiə,н,нiʒ,н,нif,н,нig,н,нih,н,нii,н,нiı,н,нij,н,нił,н,нim,н,нiꞑ,н,нio,н,нip,н,нiq,н,нir,н,нis,н,нiꞩ,н,нit,н,нiť,н,нiţ,н,нiu,н,нiv,н,нiw,н,нix,н,нiy,н,нiz,н,нiƶ,н,нıa,н,нıb,н,нıc,н,нıꞓ,н,нıd,н,нıď,н,нıḑ,н,нıe,н,нıə,н,нıʒ,н,нıf,н,нıg,н,нıh,н,нıi,н,нıı,н,нıj,н,нıł,н,нım,н,нıꞑ,н,нıo,н,нıp,н,нıq,н,нır,н,нıs,н,нıꞩ,н,нıt,н,нıť,н,нıţ,н,нıu,н,нıv,н,нıw,н,нıx,н,нıy,н,нız,н,нıƶ,н,нja,н,нjb,н,нjc,н,нjꞓ,н,нjd,н,нjď,н,нjḑ,н,нje,н,нjə,н,нjʒ,н,нjf,н,нjg,н,нjh,н,нji,н,нjı,н,нjj,н,нjł,н,нjm,н,нjꞑ,н,нjo,н,нjp,н,нjq,н,нjr,н,нjs,н,нjꞩ,н,нjt,н,нjť,н,нjţ,н,нju,н,нjv,н,нjw,н,нjx,н,нjy,н,нjz,н,нjƶ,н,нła,н,нłb,н,нłc,н,нłꞓ,н,нłd,н,нłď,н,нłḑ,н,нłe,н,нłə,н,нłʒ,н,нłf,н,нłg,н,нłh,н,нłi,н,нłı,н,нłj,н,нłł,н,нłm,н,нłꞑ,н,нło,н,нłp,н,нłq,н,нłr,н,нłs,н,нłꞩ,н,нłt,н,нłť,н,нłţ,н,нłu,н,нłv,н,нłw,н,нłx,н,нły,н,нłz,н,нłƶ,н,нma,н,нmb,н,нmc,н,нmꞓ,н,нmd,н,нmď,н,нmḑ,н,нme,н,нmə,н,нmʒ,н,нmf,н,нmg,н,нmh,н,нmi,н,нmı,н,нmj,н,нmł,н,нmm,н,нmꞑ,н,нmo,н,нmp,н,нmq,н,нmr,н,нms,н,нmꞩ,н,нmt,н,нmť,н,нmţ,н,нmu,н,нmv,н,нmw,н,нmx,н,нmy,н,нmz,н,нmƶ,н,нꞑa,н,нꞑb,н,нꞑc,н,нꞑꞓ,н,нꞑd,н,нꞑď,н,нꞑḑ,н,нꞑe,н,нꞑə,н,нꞑʒ,н,нꞑf,н,нꞑg,н,нꞑh,н,нꞑi,н,нꞑı,н,нꞑj,н,нꞑł,н,нꞑm,н,нꞑꞑ,н,нꞑo,н,нꞑp,н,нꞑq,н,нꞑr,н,нꞑs,н,нꞑꞩ,н,нꞑt,н,нꞑť,н,нꞑţ,н,нꞑu,н,нꞑv,н,нꞑw,н,нꞑx,н,нꞑy,н,нꞑz,н,нꞑƶ,н,нoa,н,нob,н,нoc,н,нoꞓ,н,нod,н,нoď,н,нoḑ,н,нoe,н,нoə,н,нoʒ,н,нof,н,нog,н,нoh,н,нoi,н,нoı,н,нoj,н,нoł,н,нom,н,нoꞑ,н,нoo,н,нop,н,нoq,н,нor,н,нos,н,нoꞩ,н,нot,н,нoť,н,нoţ,н,нou,н,нov,н,нow,н,нox,н,нoy,н,нoz,н,нoƶ,н,нpa,н,нpb,н,нpc,н,нpꞓ,н,нpd,н,нpď,н,нpḑ,н,нpe,н,нpə,н,нpʒ,н,нpf,н,нpg,н,нph,н,нpi,н,нpı,н,нpj,н,нpł,н,нpm,н,нpꞑ,н,нpo,н,нpp,н,нpq,н,нpr,н,нps,н,нpꞩ,н,нpt,н,нpť,н,нpţ,н,нpu,н,нpv,н,нpw,н,нpx,н,нpy,н,нpz,н,нpƶ,н,нqa,н,нqb,н,нqc,н,нqꞓ,н,нqd,н,нqď,н,нqḑ,н,нqe,н,нqə,н,нqʒ,н,нqf,н,нqg,н,нqh,н,нqi,н,нqı,н,нqj,н,нqł,н,нqm,н,нqꞑ,н,нqo,н,нqp,н,нqq,н,нqr,н,нqs,н,нqꞩ,н,нqt,н,нqť,н,нqţ,н,нqu,н,нqv,н,нqw,н,нqx,н,нqy,н,нqz,н,нqƶ,н,нra,н,нrb,н,нrc,н,нrꞓ,н,нrd,н,нrď,н,нrḑ,н,нre,н,нrə,н,нrʒ,н,нrf,н,нrg,н,нrh,н,нri,н,нrı,н,нrj,н,нrł,н,нrm,н,нrꞑ,н,нro,н,нrp,н,нrq,н,нrr,н,нrs,н,нrꞩ,н,нrt,н,нrť,н,нrţ,н,нru,н,нrv,н,нrw,н,нrx,н,нry,н,нrz,н,нrƶ,н,нsa,н,нsb,н,нsc,н,нsꞓ,н,нsd,н,нsď,н,нsḑ,н,нse,н,нsə,н,нsʒ,н,нsf,н,нsg,н,нsh,н,нsi,н,нsı,н,нsj,н,нsł,н,нsm,н,нsꞑ,н,нso,н,нsp,н,нsq,н,нsr,н,нss,н,нsꞩ,н,нst,н,нsť,н,нsţ,н,нsu,н,нsv,н,нsw,н,нsx,н,нsy,н,нsz,н,нsƶ,н,нꞩa,н,нꞩb,н,нꞩc,н,нꞩꞓ,н,нꞩd,н,нꞩď,н,нꞩḑ,н,нꞩe,н,нꞩə,н,нꞩʒ,н,нꞩf,н,нꞩg,н,нꞩh,н,нꞩi,н,нꞩı,н,нꞩj,н,нꞩł,н,нꞩm,н,нꞩꞑ,н,нꞩo,н,нꞩp,н,нꞩq,н,нꞩr,н,нꞩs,н,нꞩꞩ,н,нꞩt,н,нꞩť,н,нꞩţ,н,нꞩu,н,нꞩv,н,нꞩw,н,нꞩx,н,нꞩy,н,нꞩz,н,нꞩƶ,н,нta,н,нtb,н,нtc,н,нtꞓ,н,нtd,н,нtď,н,нtḑ,н,нte,н,нtə,н,нtʒ,н,нtf,н,нtg,н,нth,н,нti,н,нtı,н,нtj,н,нtł,н,нtm,н,нtꞑ,н,нto,н,нtp,н,нtq,н,нtr,н,нts,н,нtꞩ,н,нtt,н,нtť,н,нtţ,н,нtu,н,нtv,н,нtw,н,нtx,н,нty,н,нtz,н,нtƶ,н,нťa,н,нťb,н,нťc,н,нťꞓ,н,нťd,н,нťď,н,нťḑ,н,нťe,н,нťə,н,нťʒ,н,нťf,н,нťg,н,нťh,н,нťi,н,нťı,н,нťj,н,нťł,н,нťm,н,нťꞑ,н,нťo,н,нťp,н,нťq,н,нťr,н,нťs,н,нťꞩ,н,нťt,н,нťť,н,нťţ,н,нťu,н,нťv,н,нťw,н,нťx,н,нťy,н,нťz,н,нťƶ,н,нţa,н,нţb,н,нţc,н,нţꞓ,н,нţd,н,нţď,н,нţḑ,н,нţe,н,нţə,н,нţʒ,н,нţf,н,нţg,н,нţh,н,нţi,н,нţı,н,нţj,н,нţł,н,нţm,н,нţꞑ,н,нţo,н,нţp,н,нţq,н,нţr,н,нţs,н,нţꞩ,н,нţt,н,нţť,н,нţţ,н,нţu,н,нţv,н,нţw,н,нţx,н,нţy,н,нţz,н,нţƶ,н,нua,н,нub,н,нuc,н,нuꞓ,н,нud,н,нuď,н,нuḑ,н,нue,н,нuə,н,нuʒ,н,нuf,н,нug,н,нuh,н,нui,н,нuı,н,нuj,н,нuł,н,нum,н,нuꞑ,н,нuo,н,нup,н,нuq,н,нur,н,нus,н,нuꞩ,н,нut,н,нuť,н,нuţ,н,нuu,н,нuv,н,нuw,н,нux,н,нuy,н,нuz,н,нuƶ,н,нva,н,нvb,н,нvc,н,нvꞓ,н,нvd,н,нvď,н,нvḑ,н,нve,н,нvə,н,нvʒ,н,нvf,н,нvg,н,нvh,н,нvi,н,нvı,н,нvj,н,нvł,н,нvm,н,нvꞑ,н,нvo,н,нvp,н,нvq,н,нvr,н,нvs,н,нvꞩ,н,нvt,н,нvť,н,нvţ,н,нvu,н,нvv,н,нvw,н,нvx,н,нvy,н,нvz,н,нvƶ,н,нwa,н,нwb,н,нwc,н,нwꞓ,н,нwd,н,нwď,н,нwḑ,н,нwe,н,нwə,н,нwʒ,н,нwf,н,нwg,н,нwh,н,нwi,н,нwı,н,нwj,н,нwł,н,нwm,н,нwꞑ,н,нwo,н,нwp,н,нwq,н,нwr,н,нws,н,нwꞩ,н,нwt,н,нwť,н,нwţ,н,нwu,н,нwv,н,нww,н,нwx,н,нwy,н,нwz,н,нwƶ,н,нxa,н,нxb,н,нxc,н,нxꞓ,н,нxd,н,нxď,н,нxḑ,н,нxe,н,нxə,н,нxʒ,н,нxf,н,нxg,н,нxh,н,нxi,н,нxı,н,нxj,н,нxł,н,нxm,н,нxꞑ,н,нxo,н,нxp,н,нxq,н,нxr,н,нxs,н,нxꞩ,н,нxt,н,нxť,н,нxţ,н,нxu,н,нxv,н,нxw,н,нxx,н,нxy,н,нxz,н,нxƶ,н,нya,н,нyb,н,нyc,н,нyꞓ,н,нyd,н,нyď,н,нyḑ,н,нye,н,нyə,н,нyʒ,н,нyf,н,нyg,н,нyh,н,нyi,н,нyı,н,нyj,н,нył,н,нym,н,нyꞑ,н,нyo,н,нyp,н,нyq,н,нyr,н,нys,н,нyꞩ,н,нyt,н,нyť,н,нyţ,н,нyu,н,нyv,н,нyw,н,нyx,н,нyy,н,нyz,н,нyƶ,н,нza,н,нzb,н,нzc,н,нzꞓ,н,нzd,н,нzď,н,нzḑ,н,нze,н,нzə,н,нzʒ,н,нzf,н,нzg,н,нzh,н,нzi,н,нzı,н,нzj,н,нzł,н,нzm,н,нzꞑ,н,нzo,н,нzp,н,нzq,н,нzr,н,нzs,н,нzꞩ,н,нzt,н,нzť,н,нzţ,н,нzu,н,нzv,н,нzw,н,нzx,н,нzy,н,нzz,н,нzƶ,н,нƶa,н,нƶb,н,нƶc,н,нƶꞓ,н,нƶd,н,нƶď,н,нƶḑ,н,нƶe,н,нƶə,н,нƶʒ,н,нƶf,н,нƶg,н,нƶh,н,нƶi,н,нƶı,н,нƶj,н,нƶł,н,нƶm,н,нƶꞑ,н,нƶo,н,нƶp,н,нƶq,н,нƶr,н,нƶs,н,нƶꞩ,н,нƶt,н,нƶť,н,нƶţ,н,нƶu,н,нƶv,н,нƶw,н,нƶx,н,нƶy,н,нƶz,н,нƶƶ,н",
+".A.B.C.Ꞓ.Ə.Ʒ.F.G.J.K.L.Ľ.Ł.Ꞑ..Q.R.S.Ꞩ.T.Ţ.U.V.W.X.Y.Z.Ƶ ,A,B,C,Ꞓ,Ə,Ʒ,F,G,J,K,L,Ľ,Ł,Ꞑ,,Q,R,S,Ꞩ,T,Ţ,U,V,W,X,Y,Z,Ƶ :A:B:C:Ꞓ:Ə:Ʒ:F:G:J:K:L:Ľ:Ł:
+Ꞑ:Q:R:S:Ꞩ:T:Ţ:U:V:W:X:Y:Z:;:Ƶ: A;B;C;Ꞓ;Ə;Ʒ;F;G;J;K;L;Ľ;Ł;Ꞑ;Q;R;S;Ꞩ;T;Ţ;U;V;W;X;Y;Z;Ƶ A…B…C…Ꞓ…Ə…Ʒ…F…G…J…K…L…Ľ…Ł…Ꞑ…Q…R…S…Ꞩ…T…Ţ…U…V…W…X…Y…Z…Ƶ A!B!C!Ꞓ!Ə!Ʒ!F!G!J!K!L!Ľ!Ł!Ꞑ!Q!R!S!Ꞩ!T!Ţ!U!V!W!X!Y!Z!Ƶ A?B?C?Ꞓ?Ə?Ʒ?F?G?J?K?
+L?Ľ?Ł?Ꞑ?Q?R?S?Ꞩ?T?Ţ?
+?U?V?W?X?Y?Z?Ƶ? •A•B•C•Ꞓ•Ə•Ʒ•F•G•J•K•L•Ľ•Ł•Ꞑ•Q•R•S•Ꞩ•T•Ţ•U•V•W••H•X•Y•Z•Ƶ• *A*B*C*Ꞓ*Ə*Ʒ*F*G*J*K*L*
+*Ľ*Ł*Ꞑ*Q*R*S*Ꞩ*T*Ţ*U*V*
+*W*X*Y*Z*Ƶ* A#B#C#Ꞓ#Ə#Ʒ#F#G#J#K#L#Ľ#Ł#Ꞑ#Q#R#S#Ꞩ#T#Ţ#U#V#W#X#Y#Z#Ƶ# ABCFGJKLQRSTUVWXYZ
+//A//B//C//Ꞓ//Ə//Ʒ//F//G//J//K//L//Ľ//Ł//Ꞑ//Q//R//S//Ꞩ//T//Ţ//U//V//
+//W//X//Y//Z//Ƶ//H// A/backslash B/backslash C/backslash Ꞓ/backslash Ə/backslash Ʒ/backslash F/backslash G/backslash J/backslash K/backslash L/backslash 
+/backslash Ľ/backslash Ł/backslash Ꞑ/backslash Q/backslash R/backslash S/backslash Ꞩ/backslash T/backslash Ţ/backslash U/backslash 
+/backslash V/backslash W/backslash X/backslash Y/backslash Z/backslash Ƶ/backslash H/backslash  -A-B-C-Ꞓ-Ə-Ʒ-F-G-J-K-L-
+-Ľ-Ł-Ꞑ-Q-R-S-Ꞩ-T-Ţ-U-
+-V-H-W-X-Y-Z-Ƶ- A–B–C–Ꞓ–Ə–Ʒ–F–G–J–K–L–Ľ–Ł–Ꞑ–Q–R–S–Ꞩ–T–Ţ–U–V–W–X–Y–Z–Ƶ A—B—C—Ꞓ—Ə—Ʒ—F—G—J—K—L—Ľ—Ł—Ꞑ—Q—R—S—Ꞩ—T—Ţ—U—V—W—X—Y—Z—Ƶ _A_B_C_Ꞓ_Ə_Ʒ_F_G_J_K_L_Ľ_Ł_Ꞑ_Q_R_S_Ꞩ_T_Ţ_
+_H_U_V_W_X_Y_Z_Ƶ_ ’A’B’C’Ꞓ’Ə’Ʒ’F’G’J’K’L’Ľ’Ł’
+’Ꞑ’Q’R’S’Ꞩ’T’Ţ’U’V’W’X’Y’
+H’H’Z’Ƶ’    ’O’  ’H’H’HH  «A»«B»«C»«Ꞓ»«Ə»«Ʒ»
+«F»«G»«J»«K»«L»«Ľ»
+«Ł»«Ꞑ»«Q»«R»«S»«Ꞩ»
+«T»«Ţ»«U»«V»«W»«X»
+«Y»«Z»«Ƶ» \"A\"\"B\"\"C\"\"Ꞓ\"\"Ə\"\"Ʒ\"\"F\"\"G\"
+\"J\"\"K\"\"L\"\"Ľ\"\"Ł\"\"Ꞑ\"\"Q\"\"R\"
+\"S\"\"Ꞩ\"\"T\"\"Ţ\"\"U\"\"V\"\"W\"
+\"X\"\"Y\"\"Z\"\"Ƶ\"'' @A@B@C@Ꞓ@Ə@Ʒ@
+@F@G@J@K@L@Ľ@Ł@
+@Ꞑ@Q@R@S@Ꞩ@T@
+@Ţ@U@V@W@X@Y@
+@Z@Ƶ@ |A|B|C|Ꞓ|Ə|Ʒ|F|G|J|K|L|Ľ|
+|Ł|Ꞑ|Q|R|S|Ꞩ|T|Ţ|U|V|W|
+|X|Y|Z|Ƶ| (A)(B)(C)(Ꞓ)(Ə)(Ʒ)(F)(G)(J)
+(K)(L)(Ľ)(Ł)(Ꞑ)(Q)(R)(S)(Ꞩ)
+(T)(Ţ)(U)(V)(W)(X)(Y)(Z)(Ƶ) [A][B][C][Ꞓ][Ə][Ʒ][F][G]
+[J][K][L][Ľ][Ł][Ꞑ][Q][R]
+[S][Ꞩ][T][Ţ][U][V][W][X]
+[Y][Z][Ƶ]",
+"HOHOH.
+•U•H•O•
+НOH?
+HEMOL?
+HIT.
+HOHOW.
+HOHOV.
+HOHOY."
 );
 axes = (
 {
@@ -467,7 +507,7 @@ color = 6;
 glyphname = A;
 kernLeft = A;
 kernRight = A;
-lastChange = "2026-08-24 13:17:53 +0000";
+lastChange = "2026-08-31 23:52:17 +0000";
 layers = (
 {
 anchors = (
@@ -835,7 +875,7 @@ color = 6;
 glyphname = B;
 kernLeft = H;
 kernRight = B;
-lastChange = "2026-08-24 13:06:23 +0000";
+lastChange = "2026-08-31 23:51:17 +0000";
 layers = (
 {
 background = {
@@ -1497,7 +1537,7 @@ color = 6;
 glyphname = C;
 kernLeft = O;
 kernRight = C;
-lastChange = "2026-08-24 13:07:57 +0000";
+lastChange = "2026-08-31 23:51:33 +0000";
 layers = (
 {
 anchors = (
@@ -2018,7 +2058,7 @@ unicode = 262;
 glyphname = Cbar;
 kernLeft = Cbar;
 kernRight = C;
-lastChange = "2026-08-24 13:19:23 +0000";
+lastChange = "2026-08-31 23:51:40 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -3066,7 +3106,7 @@ unicode = 69;
 glyphname = Schwa;
 kernLeft = Schwa;
 kernRight = O;
-lastChange = "2026-08-24 13:09:03 +0000";
+lastChange = "2026-08-31 23:52:00 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -3162,7 +3202,7 @@ color = 6;
 glyphname = Ezh;
 kernLeft = Ezh;
 kernRight = Ezh;
-lastChange = "2026-08-25 21:24:26 +0000";
+lastChange = "2026-08-31 23:52:10 +0000";
 layers = (
 {
 background = {
@@ -3443,7 +3483,7 @@ color = 6;
 glyphname = F;
 kernLeft = H;
 kernRight = F;
-lastChange = "2026-08-24 12:46:21 +0000";
+lastChange = "2026-08-31 23:53:27 +0000";
 layers = (
 {
 background = {
@@ -3622,7 +3662,7 @@ color = 6;
 glyphname = G;
 kernLeft = O;
 kernRight = G;
-lastChange = "2026-08-24 13:24:49 +0000";
+lastChange = "2026-08-31 23:49:41 +0000";
 layers = (
 {
 background = {
@@ -4466,7 +4506,7 @@ color = 6;
 glyphname = J;
 kernLeft = J;
 kernRight = J;
-lastChange = "2026-08-24 12:38:32 +0000";
+lastChange = "2026-08-31 23:49:47 +0000";
 layers = (
 {
 background = {
@@ -4754,7 +4794,7 @@ color = 6;
 glyphname = K;
 kernLeft = H;
 kernRight = K;
-lastChange = "2026-08-19 22:47:44 +0000";
+lastChange = "2026-08-31 23:44:42 +0000";
 layers = (
 {
 background = {
@@ -5006,7 +5046,7 @@ color = 6;
 glyphname = L;
 kernLeft = H;
 kernRight = L;
-lastChange = "2026-08-19 22:47:48 +0000";
+lastChange = "2026-08-31 23:49:59 +0000";
 layers = (
 {
 background = {
@@ -5268,7 +5308,7 @@ unicode = 315;
 glyphname = Lslash;
 kernLeft = Lslash;
 kernRight = Lslash;
-lastChange = "2026-08-24 09:20:18 +0000";
+lastChange = "2026-08-31 23:41:54 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -5915,7 +5955,7 @@ unicode = 325;
 glyphname = Ndescender;
 kernLeft = H;
 kernRight = "De-cy";
-lastChange = "2026-08-21 18:14:33 +0000";
+lastChange = "2026-08-31 23:50:04 +0000";
 layers = (
 {
 layerId = "30C7391B-4326-4088-8C10-A84636ECAFF9";
@@ -5976,7 +6016,7 @@ color = 6;
 glyphname = O;
 kernLeft = O;
 kernRight = O;
-lastChange = "2026-08-22 11:41:40 +0000";
+lastChange = "2026-08-31 23:34:30 +0000";
 layers = (
 {
 anchors = (
@@ -7214,7 +7254,7 @@ color = 6;
 glyphname = Q;
 kernLeft = O;
 kernRight = Q;
-lastChange = "2026-08-24 13:15:24 +0000";
+lastChange = "2026-08-31 23:53:06 +0000";
 layers = (
 {
 anchors = (
@@ -7647,7 +7687,7 @@ color = 6;
 glyphname = R;
 kernLeft = H;
 kernRight = R;
-lastChange = "2026-08-19 22:49:00 +0000";
+lastChange = "2026-08-31 23:53:10 +0000";
 layers = (
 {
 background = {
@@ -8095,7 +8135,7 @@ color = 6;
 glyphname = S;
 kernLeft = S;
 kernRight = S;
-lastChange = "2026-08-24 13:13:11 +0000";
+lastChange = "2026-08-31 23:52:58 +0000";
 layers = (
 {
 anchors = (
@@ -9086,7 +9126,7 @@ color = 6;
 glyphname = T;
 kernLeft = T;
 kernRight = T;
-lastChange = "2026-08-25 18:58:25 +0000";
+lastChange = "2026-08-31 23:45:10 +0000";
 layers = (
 {
 anchors = (
@@ -9352,7 +9392,7 @@ color = 5;
 glyphname = Tcedilla;
 kernLeft = T;
 kernRight = Tcedilla;
-lastChange = "2026-08-24 13:10:17 +0000";
+lastChange = "2026-08-31 23:45:15 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -9410,7 +9450,7 @@ color = 6;
 glyphname = U;
 kernLeft = U;
 kernRight = U;
-lastChange = "2026-08-24 13:08:17 +0000";
+lastChange = "2026-08-31 23:53:20 +0000";
 layers = (
 {
 background = {
@@ -9627,7 +9667,7 @@ color = 6;
 glyphname = V;
 kernLeft = V;
 kernRight = V;
-lastChange = "2026-08-25 18:58:28 +0000";
+lastChange = "2026-08-31 23:51:04 +0000";
 layers = (
 {
 background = {
@@ -9902,7 +9942,7 @@ color = 6;
 glyphname = W;
 kernLeft = W;
 kernRight = W;
-lastChange = "2026-08-24 13:26:16 +0000";
+lastChange = "2026-08-31 23:45:38 +0000";
 layers = (
 {
 background = {
@@ -10181,7 +10221,7 @@ color = 6;
 glyphname = X;
 kernLeft = X;
 kernRight = X;
-lastChange = "2026-08-25 19:14:47 +0000";
+lastChange = "2026-08-31 23:45:47 +0000";
 layers = (
 {
 background = {
@@ -10551,7 +10591,7 @@ color = 6;
 glyphname = Y;
 kernLeft = Y;
 kernRight = Y;
-lastChange = "2026-08-24 13:25:55 +0000";
+lastChange = "2026-08-31 23:45:53 +0000";
 layers = (
 {
 background = {
@@ -10720,7 +10760,7 @@ color = 6;
 glyphname = Z;
 kernLeft = Z;
 kernRight = Z;
-lastChange = "2026-08-24 13:24:58 +0000";
+lastChange = "2026-08-31 23:46:13 +0000";
 layers = (
 {
 background = {
@@ -11093,7 +11133,7 @@ unicode = 11371;
 glyphname = Zstroke;
 kernLeft = Zstroke;
 kernRight = Zstroke;
-lastChange = "2026-08-24 12:47:23 +0000";
+lastChange = "2026-08-31 23:46:25 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -54757,7 +54797,7 @@ color = 6;
 glyphname = period;
 kernLeft = period;
 kernRight = period;
-lastChange = "2026-08-31 15:33:15 +0000";
+lastChange = "2026-08-31 22:46:31 +0000";
 layers = (
 {
 background = {
@@ -54950,7 +54990,9 @@ unicode = 46;
 {
 color = 8;
 glyphname = comma;
-lastChange = "2026-08-06 11:14:19 +0000";
+kernLeft = period;
+kernRight = period;
+lastChange = "2026-08-31 22:24:36 +0000";
 layers = (
 {
 background = {
@@ -54958,22 +55000,22 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(168,-104,o),
-(208,-26,o),
-(208,49,cs),
-(208,131,o),
-(169,170,o),
-(111,170,cs),
-(53,170,o),
-(15,131,o),
-(15,70,cs),
-(15,15,o),
-(60,-23,o),
-(98,-23,c),
-(96,-57,o),
-(89,-91,o),
-(71,-113,c),
-(109,-144,l)
+(169,-104,o),
+(209,-26,o),
+(209,49,cs),
+(209,131,o),
+(170,170,o),
+(112,170,cs),
+(54,170,o),
+(16,131,o),
+(16,70,cs),
+(16,15,o),
+(61,-23,o),
+(99,-23,c),
+(97,-57,o),
+(90,-91,o),
+(72,-113,c),
+(110,-144,l)
 );
 }
 );
@@ -55124,7 +55166,9 @@ unicode = 44;
 {
 color = 6;
 glyphname = colon;
-lastChange = "2026-08-06 11:12:35 +0000";
+kernLeft = colon;
+kernRight = colon;
+lastChange = "2026-08-31 22:42:12 +0000";
 layers = (
 {
 background = {
@@ -55343,7 +55387,9 @@ unicode = 58;
 {
 color = 9;
 glyphname = semicolon;
-lastChange = "2026-08-19 22:43:50 +0000";
+kernLeft = colon;
+kernRight = colon;
+lastChange = "2026-08-31 22:42:16 +0000";
 layers = (
 {
 background = {
@@ -55620,7 +55666,9 @@ unicode = 59;
 {
 color = 8;
 glyphname = ellipsis;
-lastChange = "2026-08-06 14:36:36 +0000";
+kernLeft = period;
+kernRight = period;
+lastChange = "2026-08-31 22:25:05 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -55664,7 +55712,7 @@ unicode = 8230;
 {
 color = 9;
 glyphname = exclam;
-lastChange = "2026-08-19 22:43:57 +0000";
+lastChange = "2026-08-31 22:50:36 +0000";
 layers = (
 {
 background = {
@@ -55917,7 +55965,7 @@ unicode = 33;
 {
 color = 9;
 glyphname = question;
-lastChange = "2026-08-19 22:44:01 +0000";
+lastChange = "2026-08-31 22:58:19 +0000";
 layers = (
 {
 background = {
@@ -56290,7 +56338,7 @@ unicode = 63;
 {
 color = 8;
 glyphname = bullet;
-lastChange = "2026-08-06 15:06:55 +0000";
+lastChange = "2026-08-31 23:05:01 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -56363,7 +56411,7 @@ unicode = 8226;
 {
 color = 8;
 glyphname = asterisk;
-lastChange = "2026-08-06 15:02:49 +0000";
+lastChange = "2026-08-31 23:07:14 +0000";
 layers = (
 {
 background = {
@@ -56524,7 +56572,7 @@ unicode = 42;
 {
 color = 8;
 glyphname = numbersign;
-lastChange = "2026-08-18 15:42:22 +0000";
+lastChange = "2026-08-31 23:11:52 +0000";
 layers = (
 {
 guides = (
@@ -56674,7 +56722,7 @@ unicode = 35;
 },
 {
 glyphname = slash;
-lastChange = "2025-11-06 14:38:19 +0000";
+lastChange = "2026-08-31 23:23:26 +0000";
 layers = (
 {
 background = {
@@ -56800,7 +56848,7 @@ unicode = 47;
 },
 {
 glyphname = backslash;
-lastChange = "2025-11-06 14:38:19 +0000";
+lastChange = "2026-08-31 23:23:37 +0000";
 layers = (
 {
 background = {
@@ -56926,7 +56974,9 @@ unicode = 92;
 },
 {
 glyphname = hyphen;
-lastChange = "2025-11-06 14:38:19 +0000";
+kernLeft = hyphen;
+kernRight = hyphen;
+lastChange = "2026-08-31 23:22:53 +0000";
 layers = (
 {
 background = {
@@ -57052,7 +57102,9 @@ unicode = 45;
 },
 {
 glyphname = endash;
-lastChange = "2025-11-06 14:38:19 +0000";
+kernLeft = hyphen;
+kernRight = hyphen;
+lastChange = "2026-08-31 22:26:50 +0000";
 layers = (
 {
 background = {
@@ -57178,7 +57230,9 @@ unicode = 8211;
 },
 {
 glyphname = emdash;
-lastChange = "2025-11-06 14:38:19 +0000";
+kernLeft = hyphen;
+kernRight = hyphen;
+lastChange = "2026-08-31 22:26:50 +0000";
 layers = (
 {
 background = {
@@ -57305,7 +57359,7 @@ unicode = 8212;
 {
 color = 6;
 glyphname = underscore;
-lastChange = "2026-06-29 12:13:47 +0000";
+lastChange = "2026-08-31 23:27:02 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -57345,7 +57399,9 @@ unicode = 95;
 {
 color = 10;
 glyphname = hyphen.case;
-lastChange = "2026-08-24 12:18:07 +0000";
+kernLeft = hyphen.case;
+kernRight = hyphen.case;
+lastChange = "2026-08-31 22:27:05 +0000";
 layers = (
 {
 background = {
@@ -57451,7 +57507,9 @@ note = "у меня фича не сработала";
 {
 color = 10;
 glyphname = endash.case;
-lastChange = "2026-08-24 12:18:07 +0000";
+kernLeft = hyphen.case;
+kernRight = hyphen.case;
+lastChange = "2026-08-31 22:27:05 +0000";
 layers = (
 {
 background = {
@@ -57557,7 +57615,9 @@ note = "у меня фича не сработала";
 {
 color = 10;
 glyphname = emdash.case;
-lastChange = "2026-08-24 12:18:07 +0000";
+kernLeft = hyphen.case;
+kernRight = hyphen.case;
+lastChange = "2026-08-31 22:27:05 +0000";
 layers = (
 {
 background = {
@@ -57662,7 +57722,9 @@ note = "у меня фича не сработала";
 },
 {
 glyphname = parenleft;
-lastChange = "2026-08-18 14:06:28 +0000";
+kernLeft = parenleft;
+kernRight = parenleft;
+lastChange = "2026-08-31 22:27:14 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -57779,7 +57841,9 @@ unicode = 40;
 },
 {
 glyphname = parenright;
-lastChange = "2026-06-29 13:49:38 +0000";
+kernLeft = parenright;
+kernRight = parenright;
+lastChange = "2026-08-31 22:27:19 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -57836,7 +57900,9 @@ unicode = 41;
 },
 {
 glyphname = bracketleft;
-lastChange = "2026-06-29 13:49:38 +0000";
+kernLeft = bracketleft;
+kernRight = bracketleft;
+lastChange = "2026-08-31 22:27:25 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -57925,7 +57991,9 @@ unicode = 91;
 },
 {
 glyphname = bracketright;
-lastChange = "2026-06-29 13:49:38 +0000";
+kernLeft = bracketright;
+kernRight = bracketright;
+lastChange = "2026-08-31 22:27:29 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -57982,7 +58050,9 @@ unicode = 93;
 },
 {
 glyphname = parenleft.case;
-lastChange = "2026-08-24 12:18:07 +0000";
+kernLeft = parenleft.case;
+kernRight = parenleft.case;
+lastChange = "2026-08-31 22:27:36 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -58036,7 +58106,9 @@ metricLeft = parenleft;
 },
 {
 glyphname = parenright.case;
-lastChange = "2026-08-24 12:18:07 +0000";
+kernLeft = parenright.case;
+kernRight = parenright.case;
+lastChange = "2026-08-31 22:27:40 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -58088,7 +58160,9 @@ metricRight = "=|parenleft.cap";
 },
 {
 glyphname = bracketleft.case;
-lastChange = "2026-08-24 12:18:07 +0000";
+kernLeft = bracketleft.case;
+kernRight = bracketleft.case;
+lastChange = "2026-08-31 22:27:45 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -58140,7 +58214,9 @@ metricRight = "=H-40";
 },
 {
 glyphname = bracketright.case;
-lastChange = "2026-08-24 12:18:07 +0000";
+kernLeft = bracketright.case;
+kernRight = bracketright.case;
+lastChange = "2026-08-31 22:27:49 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -58192,7 +58268,7 @@ metricRight = "=|bracketleft";
 },
 {
 glyphname = quoteright;
-lastChange = "2026-08-06 11:37:06 +0000";
+lastChange = "2026-08-31 23:34:02 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -58206,14 +58282,16 @@ width = 208;
 },
 {
 layerId = "30C7391B-4326-4088-8C10-A84636ECAFF9";
+metricLeft = "=comma+10";
+metricRight = "=comma-30";
 shapes = (
 {
 alignment = -1;
-pos = (0,549);
+pos = (10,549);
 ref = comma;
 }
 );
-width = 235;
+width = 225;
 },
 {
 associatedMasterId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -58241,8 +58319,8 @@ ref = comma;
 width = 236;
 }
 );
-metricLeft = comma;
-metricRight = "=comma-10";
+metricLeft = "comma+10";
+metricRight = "=comma-20";
 unicode = 8217;
 },
 {
@@ -58740,7 +58818,9 @@ unicode = 187;
 {
 color = 10;
 glyphname = quotedbl;
-lastChange = "2026-08-06 16:21:29 +0000";
+kernLeft = quotesingle;
+kernRight = quotesingle;
+lastChange = "2026-08-31 23:40:24 +0000";
 layers = (
 {
 background = {
@@ -58911,7 +58991,9 @@ unicode = 34;
 {
 color = 6;
 glyphname = quotesingle;
-lastChange = "2026-08-18 14:06:28 +0000";
+kernLeft = quotesingle;
+kernRight = quotesingle;
+lastChange = "2026-08-31 23:40:12 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -85031,17 +85113,30 @@ kerningLTR = {
 "@MMK_R_V" = -50;
 "@MMK_R_W" = -50;
 "@MMK_R_Y" = -70;
+"@MMK_R_bracketright" = -40;
 "@MMK_R_ereversed-cy" = -10;
 "@MMK_R_f" = -20;
+"@MMK_R_hyphen" = -20;
 "@MMK_R_komidzje-cy" = -60;
 "@MMK_R_komitje-cy" = -70;
 "@MMK_R_komizje-cy" = -60;
 "@MMK_R_o" = -10;
+"@MMK_R_parenright" = -10;
+"@MMK_R_quotesingle" = -80;
 "@MMK_R_s" = -10;
 "@MMK_R_schwa" = -10;
 "@MMK_R_t" = -30;
 "@MMK_R_u" = -10;
 "@MMK_R_v" = -30;
+asterisk = -70;
+backslash = -110;
+bar = -10;
+bullet = -40;
+exclam = -20;
+guillemetright = -30;
+numbersign = -10;
+question = -60;
+quoteright = -50;
 };
 "@MMK_L_B" = {
 "@MMK_R_Cbar" = -10;
@@ -85054,12 +85149,16 @@ kerningLTR = {
 "@MMK_R_W" = -20;
 "@MMK_R_Y" = -30;
 "@MMK_R_Ze-cy" = -10;
+"@MMK_R_bracketright" = -20;
 "@MMK_R_ereversed-cy" = -10;
 "@MMK_R_ezh" = -10;
 "@MMK_R_komidzje-cy" = -10;
 "@MMK_R_komizje-cy" = -10;
 "@MMK_R_lslash" = -10;
 "@MMK_R_o" = -10;
+"@MMK_R_parenright" = -20;
+"@MMK_R_period" = -30;
+"@MMK_R_quotesingle" = -20;
 "@MMK_R_s" = -20;
 "@MMK_R_t" = -10;
 "@MMK_R_te-cy" = -10;
@@ -85070,6 +85169,14 @@ kerningLTR = {
 "@MMK_R_x" = -10;
 "@MMK_R_y" = -10;
 "@MMK_R_z" = -10;
+backslash = -20;
+bar = -20;
+bullet = -10;
+exclam = -10;
+guillemetright = -10;
+question = -10;
+slash = -10;
+underscore = -50;
 };
 "@MMK_L_Be-cy" = {
 "@MMK_R_Ereversed-cy" = -10;
@@ -85106,12 +85213,14 @@ kerningLTR = {
 "@MMK_R_Ya-cy" = -10;
 "@MMK_R_a" = -10;
 "@MMK_R_be-cy" = -20;
+"@MMK_R_bracketright" = -20;
 "@MMK_R_cbar" = -30;
 "@MMK_R_che-cy" = -20;
 "@MMK_R_ef-cy" = -20;
 "@MMK_R_ereversed-cy" = -20;
 "@MMK_R_ezh" = -10;
 "@MMK_R_f" = -20;
+"@MMK_R_hyphen" = -50;
 "@MMK_R_j" = -10;
 "@MMK_R_komidzje-cy" = -30;
 "@MMK_R_komitje-cy" = -20;
@@ -85120,6 +85229,8 @@ kerningLTR = {
 "@MMK_R_lslash" = -30;
 "@MMK_R_n" = -10;
 "@MMK_R_o" = -20;
+"@MMK_R_parenright" = -10;
+"@MMK_R_period" = -30;
 "@MMK_R_s" = -30;
 "@MMK_R_schwa" = -20;
 "@MMK_R_t" = -10;
@@ -85132,6 +85243,17 @@ kerningLTR = {
 "@MMK_R_ya-cy" = 0;
 "@MMK_R_z" = -10;
 "@MMK_R_zstroke" = -10;
+asterisk = -10;
+at = -20;
+backslash = -20;
+bar = -20;
+bullet = -40;
+exclam = -20;
+guillemetright = -30;
+question = -20;
+quotedbl = -10;
+slash = -20;
+underscore = -20;
 };
 "@MMK_L_De-cy" = {
 "@MMK_R_Che-cy" = -30;
@@ -85156,6 +85278,8 @@ kerningLTR = {
 "@MMK_R_komizje-cy" = -40;
 "@MMK_R_lslash" = -20;
 "@MMK_R_o" = -10;
+"@MMK_R_parenright" = -10;
+"@MMK_R_quotesingle" = -50;
 "@MMK_R_s" = -10;
 "@MMK_R_t" = -20;
 "@MMK_R_te-cy" = -20;
@@ -85163,7 +85287,15 @@ kerningLTR = {
 "@MMK_R_v" = -30;
 "@MMK_R_w" = -30;
 "@MMK_R_y" = -30;
+asterisk = -50;
+backslash = -40;
+bullet = -40;
+guillemetright = -50;
 "je-cy" = 30;
+numbersign = -20;
+question = -50;
+quoteright = -30;
+underscore = 80;
 };
 "@MMK_L_E" = {
 "@MMK_R_Cbar" = -30;
@@ -85205,12 +85337,17 @@ kerningLTR = {
 "@MMK_R_V" = -20;
 "@MMK_R_W" = -20;
 "@MMK_R_a" = -10;
+"@MMK_R_bracketright" = -20;
 "@MMK_R_ezh" = -20;
 "@MMK_R_f" = -30;
+"@MMK_R_hyphen" = -10;
 "@MMK_R_j" = -10;
 "@MMK_R_l" = -10;
 "@MMK_R_n" = -10;
 "@MMK_R_o" = -10;
+"@MMK_R_parenright" = -30;
+"@MMK_R_period" = -30;
+"@MMK_R_quotesingle" = -20;
 "@MMK_R_s" = -20;
 "@MMK_R_t" = -20;
 "@MMK_R_v" = -30;
@@ -85219,6 +85356,16 @@ kerningLTR = {
 "@MMK_R_y" = -30;
 "@MMK_R_z" = -10;
 "@MMK_R_zstroke" = -20;
+asterisk = -30;
+at = -20;
+bullet = -20;
+exclam = -20;
+guillemetright = -50;
+numbersign = -20;
+question = -20;
+quoteright = 0;
+slash = -10;
+underscore = -30;
 };
 "@MMK_L_F" = {
 "@MMK_R_A" = -60;
@@ -85232,14 +85379,19 @@ kerningLTR = {
 "@MMK_R_Z" = -10;
 "@MMK_R_Ze-cy" = -20;
 "@MMK_R_a" = -50;
+"@MMK_R_bracketright" = -10;
 "@MMK_R_cbar" = -50;
+"@MMK_R_colon" = -20;
 "@MMK_R_ezh" = -50;
 "@MMK_R_f" = -40;
+"@MMK_R_hyphen" = -50;
 "@MMK_R_j" = -50;
 "@MMK_R_l" = -10;
 "@MMK_R_lslash" = -30;
 "@MMK_R_n" = -40;
 "@MMK_R_o" = -50;
+"@MMK_R_parenright" = -10;
+"@MMK_R_period" = -130;
 "@MMK_R_s" = -50;
 "@MMK_R_schwa" = -60;
 "@MMK_R_t" = -20;
@@ -85250,11 +85402,25 @@ kerningLTR = {
 "@MMK_R_y" = -30;
 "@MMK_R_z" = -30;
 "@MMK_R_zstroke" = -30;
+at = -50;
+bar = -10;
+bullet = -50;
+exclam = -20;
+guillemetright = -60;
+numbersign = -70;
+slash = -70;
+underscore = -70;
 };
 "@MMK_L_G" = {
 "@MMK_R_ezh" = -10;
+"@MMK_R_parenright" = -20;
 "@MMK_R_v" = -10;
 "@MMK_R_w" = -10;
+exclam = 0;
+guillemetright = -30;
+question = -20;
+slash = -10;
+underscore = 0;
 };
 "@MMK_L_Ge-cy" = {
 "@MMK_R_A" = -50;
@@ -85287,9 +85453,16 @@ kerningLTR = {
 "@MMK_R_Ze-cy" = -10;
 "@MMK_R_Zhe-cy" = -20;
 "@MMK_R_o" = -10;
+"@MMK_R_parenright" = -20;
+"@MMK_R_period" = -40;
 "@MMK_R_s" = -20;
 "@MMK_R_v" = -10;
 "@MMK_R_y" = -10;
+bullet = -20;
+guillemetright = -40;
+numbersign = -20;
+question = -10;
+underscore = -50;
 };
 "@MMK_L_K" = {
 "@MMK_R_Cbar" = -40;
@@ -85302,6 +85475,7 @@ kerningLTR = {
 "@MMK_R_che-cy" = -30;
 "@MMK_R_ef-cy" = -30;
 "@MMK_R_hardsign-cy" = -20;
+"@MMK_R_hyphen" = -70;
 "@MMK_R_komidzje-cy" = -40;
 "@MMK_R_komitje-cy" = -40;
 "@MMK_R_komizje-cy" = -50;
@@ -85316,6 +85490,12 @@ kerningLTR = {
 "@MMK_R_w" = -40;
 "@MMK_R_y" = -50;
 "@MMK_R_ze-cy" = -20;
+asterisk = -30;
+at = -10;
+bullet = -60;
+exclam = -20;
+guillemetright = -50;
+question = -20;
 };
 "@MMK_L_Komidje-cy" = {
 "@MMK_R_A" = -30;
@@ -85439,11 +85619,20 @@ kerningLTR = {
 "@MMK_R_V" = -50;
 "@MMK_R_W" = -50;
 "@MMK_R_Y" = -90;
+"@MMK_R_hyphen" = -60;
+"@MMK_R_quotesingle" = -70;
 "@MMK_R_t" = -30;
 "@MMK_R_u" = -10;
 "@MMK_R_v" = -50;
 "@MMK_R_w" = -50;
 "@MMK_R_y" = -60;
+asterisk = -80;
+backslash = -70;
+bullet = -40;
+exclam = -20;
+guillemetright = -20;
+question = -60;
+quoteright = -50;
 };
 "@MMK_L_Lslash" = {
 "@MMK_R_Cbar" = -20;
@@ -85452,7 +85641,15 @@ kerningLTR = {
 "@MMK_R_U" = -20;
 "@MMK_R_V" = -50;
 "@MMK_R_W" = -50;
+"@MMK_R_hyphen" = -30;
 "@MMK_R_o" = -10;
+"@MMK_R_quotesingle" = -70;
+asterisk = -70;
+backslash = -80;
+bullet = -40;
+exclam = -20;
+guillemetright = -20;
+question = -60;
 };
 "@MMK_L_O" = {
 "@MMK_R_A" = -20;
@@ -85476,14 +85673,26 @@ kerningLTR = {
 "@MMK_R_Zhe-cy" = -20;
 "@MMK_R_Zstroke" = -10;
 "@MMK_R_a" = -10;
+"@MMK_R_bracketright" = -30;
 "@MMK_R_ezh" = -10;
 "@MMK_R_o" = -10;
+"@MMK_R_parenright" = -30;
+"@MMK_R_period" = -40;
+"@MMK_R_quotesingle" = -10;
 "@MMK_R_s" = -10;
 "@MMK_R_u" = -10;
 "@MMK_R_v" = -10;
 "@MMK_R_x" = -20;
 "@MMK_R_y" = -10;
 "@MMK_R_z" = -10;
+backslash = -30;
+bar = -10;
+exclam = -20;
+guillemetright = -30;
+numbersign = -30;
+question = -30;
+slash = -20;
+underscore = -30;
 };
 "@MMK_L_P" = {
 "@MMK_R_A" = -60;
@@ -85517,6 +85726,14 @@ kerningLTR = {
 "@MMK_R_W" = -20;
 "@MMK_R_Y" = -30;
 "@MMK_R_Z" = -10;
+"@MMK_R_bracketright" = -20;
+"@MMK_R_parenright" = -30;
+"@MMK_R_period" = -20;
+backslash = -30;
+bar = -10;
+guillemetright = -30;
+numbersign = -30;
+question = -30;
 };
 "@MMK_L_R" = {
 "@MMK_R_Cbar" = -20;
@@ -85531,17 +85748,30 @@ kerningLTR = {
 "@MMK_R_Y" = -40;
 "@MMK_R_Ze-cy" = -20;
 "@MMK_R_a" = -10;
+"@MMK_R_bracketright" = -20;
 "@MMK_R_cbar" = -20;
+"@MMK_R_colon" = -10;
 "@MMK_R_ezh" = -10;
 "@MMK_R_f" = -20;
+"@MMK_R_hyphen" = -30;
 "@MMK_R_l" = -10;
 "@MMK_R_lslash" = -30;
 "@MMK_R_n" = -10;
 "@MMK_R_o" = -20;
+"@MMK_R_parenright" = -30;
+"@MMK_R_quotesingle" = -40;
 "@MMK_R_s" = -20;
 "@MMK_R_schwa" = -20;
 "@MMK_R_t" = -10;
 "@MMK_R_u" = -20;
+asterisk = -20;
+at = -20;
+bar = -10;
+bullet = -30;
+exclam = -30;
+guillemetright = -50;
+numbersign = -30;
+question = -40;
 };
 "@MMK_L_S" = {
 "@MMK_R_Cbar" = -10;
@@ -85552,11 +85782,23 @@ kerningLTR = {
 "@MMK_R_Y" = -20;
 "@MMK_R_Ze-cy" = -10;
 "@MMK_R_Zstroke" = -10;
+"@MMK_R_bracketright" = -20;
+"@MMK_R_colon" = -10;
+"@MMK_R_parenright" = -30;
+"@MMK_R_quotesingle" = -20;
 "@MMK_R_s" = -20;
 "@MMK_R_v" = -20;
 "@MMK_R_w" = -10;
 "@MMK_R_x" = -10;
 "@MMK_R_y" = -20;
+asterisk = -10;
+at = -10;
+backslash = -30;
+guillemetright = -40;
+numbersign = -10;
+question = -20;
+quoteright = -10;
+slash = -20;
 };
 "@MMK_L_Softsign-cy" = {
 "@MMK_R_Che-cy" = -20;
@@ -85590,11 +85832,13 @@ kerningLTR = {
 "@MMK_R_a" = -50;
 "@MMK_R_be-cy" = -20;
 "@MMK_R_cbar" = -70;
+"@MMK_R_colon" = -20;
 "@MMK_R_ef-cy" = -60;
 "@MMK_R_el-cy" = -50;
 "@MMK_R_ereversed-cy" = -50;
 "@MMK_R_ezh" = -30;
 "@MMK_R_f" = -10;
+"@MMK_R_hyphen" = -80;
 "@MMK_R_j" = -30;
 "@MMK_R_komidzje-cy" = -30;
 "@MMK_R_komitje-cy" = -10;
@@ -85602,6 +85846,7 @@ kerningLTR = {
 "@MMK_R_lslash" = -30;
 "@MMK_R_n" = -30;
 "@MMK_R_o" = -60;
+"@MMK_R_period" = -110;
 "@MMK_R_s" = -60;
 "@MMK_R_schwa" = -60;
 "@MMK_R_u" = -40;
@@ -85613,6 +85858,13 @@ kerningLTR = {
 "@MMK_R_z" = -30;
 "@MMK_R_ze-cy" = -50;
 "@MMK_R_zstroke" = -30;
+at = -70;
+bullet = -70;
+exclam = -10;
+guillemetright = -60;
+numbersign = -90;
+slash = -80;
+underscore = -80;
 };
 "@MMK_L_Tcedilla" = {
 "@MMK_R_A" = -50;
@@ -85622,21 +85874,39 @@ kerningLTR = {
 "@MMK_R_Zstroke" = 0;
 "@MMK_R_cbar" = -70;
 "@MMK_R_ezh" = -30;
+"@MMK_R_hyphen" = -80;
 "@MMK_R_lslash" = -20;
 "@MMK_R_n" = -40;
 "@MMK_R_o" = -60;
+"@MMK_R_period" = -70;
 "@MMK_R_s" = -60;
 "@MMK_R_schwa" = -60;
 "@MMK_R_v" = -30;
 "@MMK_R_w" = -30;
 "@MMK_R_y" = -20;
 "@MMK_R_z" = -30;
+at = -60;
+bullet = -70;
+guillemetright = -70;
+numbersign = -90;
+slash = -80;
+underscore = -60;
 };
 "@MMK_L_U" = {
 "@MMK_R_A" = -30;
+"@MMK_R_bracketright" = -20;
 "@MMK_R_o" = -10;
+"@MMK_R_period" = -50;
+"@MMK_R_quotesingle" = -10;
 "@MMK_R_s" = -10;
 "@MMK_R_schwa" = -10;
+bullet = -20;
+exclam = -20;
+guillemetright = -20;
+numbersign = -40;
+question = -10;
+slash = -40;
+underscore = -50;
 };
 "@MMK_L_U-cy" = {
 "@MMK_R_A" = -60;
@@ -85669,11 +85939,14 @@ kerningLTR = {
 "@MMK_R_S" = -10;
 "@MMK_R_Schwa" = -20;
 "@MMK_R_cbar" = -40;
+"@MMK_R_colon" = -20;
 "@MMK_R_f" = -10;
+"@MMK_R_hyphen" = -60;
 "@MMK_R_j" = -30;
 "@MMK_R_lslash" = -10;
 "@MMK_R_n" = -30;
 "@MMK_R_o" = -40;
+"@MMK_R_period" = -110;
 "@MMK_R_s" = -40;
 "@MMK_R_schwa" = -40;
 "@MMK_R_u" = -20;
@@ -85682,6 +85955,14 @@ kerningLTR = {
 "@MMK_R_y" = -20;
 "@MMK_R_z" = -20;
 "@MMK_R_zstroke" = -20;
+asterisk = -10;
+at = -60;
+bullet = -70;
+exclam = -10;
+guillemetright = -60;
+numbersign = -60;
+slash = -70;
+underscore = -70;
 };
 "@MMK_L_W" = {
 "@MMK_R_A" = -50;
@@ -85689,12 +85970,15 @@ kerningLTR = {
 "@MMK_R_O" = -20;
 "@MMK_R_Schwa" = -20;
 "@MMK_R_cbar" = -30;
+"@MMK_R_colon" = -10;
 "@MMK_R_f" = -20;
+"@MMK_R_hyphen" = -50;
 "@MMK_R_j" = -40;
 "@MMK_R_l" = -10;
 "@MMK_R_lslash" = -20;
 "@MMK_R_n" = -30;
 "@MMK_R_o" = -40;
+"@MMK_R_period" = -90;
 "@MMK_R_s" = -40;
 "@MMK_R_schwa" = -40;
 "@MMK_R_u" = -40;
@@ -85704,6 +85988,14 @@ kerningLTR = {
 "@MMK_R_y" = -30;
 "@MMK_R_z" = -20;
 "@MMK_R_zstroke" = -20;
+asterisk = -10;
+at = -50;
+bullet = -50;
+exclam = -10;
+guillemetright = -50;
+numbersign = -70;
+slash = -60;
+underscore = -80;
 };
 "@MMK_L_X" = {
 "@MMK_R_Cbar" = -40;
@@ -85714,16 +86006,24 @@ kerningLTR = {
 "@MMK_R_O" = -20;
 "@MMK_R_Schwa" = -10;
 "@MMK_R_f" = -10;
+"@MMK_R_hyphen" = -30;
 "@MMK_R_komidzje-cy" = -40;
 "@MMK_R_komitje-cy" = -50;
 "@MMK_R_komizje-cy" = -50;
 "@MMK_R_o" = -20;
+"@MMK_R_quotesingle" = -20;
 "@MMK_R_s" = -20;
 "@MMK_R_t" = -30;
 "@MMK_R_u" = -20;
 "@MMK_R_v" = -30;
 "@MMK_R_w" = -30;
 "@MMK_R_y" = -30;
+asterisk = -30;
+at = -20;
+bullet = -30;
+guillemetright = -30;
+numbersign = -20;
+question = -20;
 };
 "@MMK_L_Y" = {
 "@MMK_R_A" = -70;
@@ -85732,10 +86032,13 @@ kerningLTR = {
 "@MMK_R_O" = -30;
 "@MMK_R_S" = -20;
 "@MMK_R_Schwa" = -30;
+"@MMK_R_colon" = -30;
 "@MMK_R_ezh" = -50;
+"@MMK_R_hyphen" = -90;
 "@MMK_R_j" = -60;
 "@MMK_R_n" = -50;
 "@MMK_R_o" = -70;
+"@MMK_R_period" = -120;
 "@MMK_R_s" = -70;
 "@MMK_R_schwa" = -70;
 "@MMK_R_v" = -30;
@@ -85744,8 +86047,16 @@ kerningLTR = {
 "@MMK_R_y" = -30;
 "@MMK_R_z" = -30;
 "@MMK_R_zstroke" = -30;
+asterisk = -10;
+at = -70;
+bullet = -90;
+exclam = -10;
+guillemetright = -80;
 i = -30;
 j = -40;
+numbersign = -80;
+slash = -80;
+underscore = -120;
 };
 "@MMK_L_Z" = {
 "@MMK_R_Cbar" = -30;
@@ -85753,9 +86064,17 @@ j = -40;
 "@MMK_R_Schwa" = -10;
 "@MMK_R_a" = 0;
 "@MMK_R_cbar" = -30;
+"@MMK_R_hyphen" = -40;
 "@MMK_R_o" = -20;
+"@MMK_R_period" = -10;
+"@MMK_R_quotesingle" = -10;
 "@MMK_R_schwa" = -20;
 "@MMK_R_t" = -10;
+asterisk = -10;
+at = -10;
+bullet = -20;
+numbersign = -10;
+question = -10;
 };
 "@MMK_L_Ze-cy" = {
 "@MMK_R_A" = -10;
@@ -85786,6 +86105,15 @@ j = -40;
 "@MMK_R_te-cy" = -60;
 "@MMK_R_u-cy" = -60;
 "je-cy" = 50;
+};
+"@MMK_L_Zstroke" = {
+"@MMK_R_hyphen" = -10;
+asterisk = -20;
+at = -10;
+bullet = -20;
+guillemetright = -20;
+numbersign = -30;
+question = -10;
 };
 "@MMK_L_a" = {
 "@MMK_R_Komidzje-cy" = -50;
@@ -85840,6 +86168,15 @@ j = -40;
 "@MMK_R_ze-cy" = -10;
 "@MMK_R_zhe-cy" = -10;
 };
+"@MMK_L_bracketleft" = {
+"@MMK_R_A" = -40;
+"@MMK_R_Cbar" = -50;
+"@MMK_R_Ezh" = -10;
+"@MMK_R_O" = -30;
+"@MMK_R_S" = -10;
+"@MMK_R_Schwa" = -10;
+"@MMK_R_U" = -20;
+};
 "@MMK_L_bur" = {
 "@MMK_R_an" = -50;
 "@MMK_R_chery" = -70;
@@ -85890,6 +86227,13 @@ j = -40;
 "@MMK_R_shoy" = -20;
 "@MMK_R_tay" = -10;
 "@MMK_R_yat" = -10;
+};
+"@MMK_L_colon" = {
+"@MMK_R_S" = 0;
+"@MMK_R_T" = -20;
+"@MMK_R_V" = -20;
+"@MMK_R_W" = -10;
+"@MMK_R_Y" = -30;
 };
 "@MMK_L_dcaron" = {
 "@MMK_R_A" = -60;
@@ -86107,6 +86451,16 @@ jdotless = -20;
 "@MMK_R_Zhe-cy" = -20;
 "@MMK_R_de-cy" = -20;
 "@MMK_R_o" = -10;
+};
+"@MMK_L_hyphen" = {
+"@MMK_R_A" = -20;
+"@MMK_R_Ezh" = -70;
+"@MMK_R_J" = -40;
+"@MMK_R_T" = -80;
+"@MMK_R_V" = -60;
+"@MMK_R_W" = -50;
+"@MMK_R_X" = -30;
+"@MMK_R_Y" = -90;
 };
 "@MMK_L_j" = {
 "@MMK_R_Y" = -60;
@@ -86362,7 +86716,22 @@ jdotless = -20;
 "@MMK_R_ver" = -10;
 "@MMK_R_yus" = -30;
 };
+"@MMK_L_parenleft" = {
+"@MMK_R_A" = -10;
+"@MMK_R_Cbar" = -40;
+"@MMK_R_O" = -30;
+"@MMK_R_S" = -20;
+};
 "@MMK_L_period" = {
+"@MMK_R_Cbar" = -50;
+"@MMK_R_Lslash" = -20;
+"@MMK_R_O" = -40;
+"@MMK_R_Schwa" = -40;
+"@MMK_R_T" = -110;
+"@MMK_R_U" = -50;
+"@MMK_R_V" = -110;
+"@MMK_R_W" = -90;
+"@MMK_R_Y" = -120;
 "@MMK_R_cbar" = -20;
 "@MMK_R_f" = -20;
 "@MMK_R_lslash" = -30;
@@ -86382,6 +86751,18 @@ jdotless = -20;
 "@MMK_R_tay" = -10;
 "@MMK_R_v" = -30;
 "@MMK_R_yat" = -20;
+};
+"@MMK_L_quotesingle" = {
+"@MMK_R_A" = -80;
+"@MMK_R_Cbar" = -20;
+"@MMK_R_Ezh" = -10;
+"@MMK_R_J" = -20;
+"@MMK_R_O" = -10;
+"@MMK_R_S" = -10;
+"@MMK_R_Schwa" = -10;
+"@MMK_R_U" = -10;
+"@MMK_R_X" = -20;
+"@MMK_R_Z" = -20;
 };
 "@MMK_L_r" = {
 "@MMK_R_X" = -10;
@@ -86749,8 +87130,128 @@ jdotless = -20;
 Lcaron = {
 "@MMK_R_T" = -40;
 };
+asterisk = {
+"@MMK_R_A" = -70;
+"@MMK_R_V" = -10;
+"@MMK_R_W" = -10;
+"@MMK_R_X" = -30;
+"@MMK_R_Y" = -10;
+"@MMK_R_Z" = -10;
+"@MMK_R_Zstroke" = -20;
+};
+at = {
+"@MMK_R_Ezh" = -30;
+"@MMK_R_S" = -10;
+"@MMK_R_T" = -70;
+"@MMK_R_V" = -60;
+"@MMK_R_W" = -50;
+"@MMK_R_X" = -20;
+"@MMK_R_Y" = -70;
+"@MMK_R_Z" = -30;
+"@MMK_R_Zstroke" = -30;
+};
+backslash = {
+"@MMK_R_Cbar" = -30;
+"@MMK_R_O" = -20;
+"@MMK_R_Schwa" = -10;
+"@MMK_R_T" = -80;
+"@MMK_R_U" = -40;
+"@MMK_R_V" = -70;
+"@MMK_R_W" = -60;
+"@MMK_R_Y" = -80;
+};
+bar = {
+"@MMK_R_A" = -10;
+"@MMK_R_O" = -10;
+};
+bullet = {
+"@MMK_R_A" = -40;
+"@MMK_R_Ezh" = -40;
+"@MMK_R_J" = -60;
+"@MMK_R_Lslash" = -20;
+"@MMK_R_S" = -20;
+"@MMK_R_T" = -70;
+"@MMK_R_U" = -20;
+"@MMK_R_V" = -70;
+"@MMK_R_W" = -50;
+"@MMK_R_X" = -30;
+"@MMK_R_Y" = -90;
+"@MMK_R_Z" = -10;
+"@MMK_R_Zstroke" = -10;
+};
+exclam = {
+"@MMK_R_Ezh" = -10;
+"@MMK_R_O" = -20;
+"@MMK_R_Schwa" = -20;
+"@MMK_R_T" = -10;
+"@MMK_R_U" = -20;
+"@MMK_R_V" = -10;
+"@MMK_R_W" = -10;
+"@MMK_R_Y" = -10;
+};
+guillemetleft = {
+"@MMK_R_A" = -30;
+"@MMK_R_Ezh" = -40;
+"@MMK_R_J" = -20;
+"@MMK_R_O" = -30;
+"@MMK_R_S" = -20;
+"@MMK_R_Schwa" = -20;
+"@MMK_R_T" = -60;
+"@MMK_R_U" = -20;
+"@MMK_R_V" = -60;
+"@MMK_R_W" = -50;
+"@MMK_R_X" = -30;
+"@MMK_R_Y" = -80;
+"@MMK_R_Zstroke" = -20;
+};
 i = {
 "@MMK_R_Y" = -30;
+};
+numbersign = {
+"@MMK_R_Cbar" = -30;
+"@MMK_R_Ezh" = -20;
+"@MMK_R_J" = -10;
+"@MMK_R_O" = -30;
+"@MMK_R_S" = -20;
+"@MMK_R_Schwa" = -20;
+"@MMK_R_U" = -20;
+"@MMK_R_Z" = -20;
+"@MMK_R_Zstroke" = -50;
+};
+question = {
+"@MMK_R_Ezh" = -20;
+"@MMK_R_O" = -10;
+"@MMK_R_S" = -10;
+"@MMK_R_U" = -20;
+"@MMK_R_X" = -20;
+"@MMK_R_Z" = -20;
+"@MMK_R_Zstroke" = -20;
+};
+quoteright = {
+"@MMK_R_A" = -80;
+"@MMK_R_Cbar" = -40;
+"@MMK_R_Ezh" = -10;
+"@MMK_R_J" = -30;
+"@MMK_R_O" = -40;
+"@MMK_R_S" = -20;
+"@MMK_R_Schwa" = -40;
+};
+slash = {
+"@MMK_R_A" = -110;
+"@MMK_R_Cbar" = -30;
+"@MMK_R_Ezh" = -10;
+"@MMK_R_O" = -30;
+"@MMK_R_S" = -10;
+"@MMK_R_Schwa" = -10;
+};
+underscore = {
+"@MMK_R_O" = -30;
+"@MMK_R_Schwa" = -20;
+"@MMK_R_T" = -80;
+"@MMK_R_U" = -50;
+"@MMK_R_V" = -70;
+"@MMK_R_W" = -80;
+"@MMK_R_Y" = -120;
 };
 };
 };
