@@ -10,3 +10,8 @@ venv/
 # Build output
 build/
 fonts/
+
+# gftools/fontmake build intermediates
+sources/.ninja_log
+sources/build.ninja
+sources/instance_ufos/
