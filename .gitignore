@@ -9,7 +9,6 @@ venv/
 
 # Build output
 build/
-fonts/
 
 # gftools/fontmake build intermediates
 sources/.ninja_log
