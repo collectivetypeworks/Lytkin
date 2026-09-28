@@ -1,6 +1,4 @@
 # Lytkin
-<img width="4000" height="2300" alt="image (29)" src="https://github.com/user-attachments/assets/7f258add-2199-4141-877b-e51a9c85763c" />
-
 
 Lytkin is a contemporary sans serif typeface, distinguished by its comprehensive support for the Old Permic script and for most historical orthographies of the Komi languages based on Cyrillic and Latin scripts.
 
@@ -9,6 +7,8 @@ The typeface was created as a non-commercial initiative to support and contribut
 The primary sources for the development of the Old Permic characters were the scholarly works of linguist Vasily Lytkin, particularly his comparative tables documenting the various historical forms of each character. The design process was also informed by consultations with members of the language community, including users and advocates of the Old Permic script.
 
 Lytkin was designed by Danilo Borovinić and Antonina Samokhina as part of Collective Typeworks.
+
+<img width="4000" height="2300" alt="image (29)" src="https://github.com/user-attachments/assets/7f258add-2199-4141-877b-e51a9c85763c" />
 
 ## Scripts and Orthographies
 
