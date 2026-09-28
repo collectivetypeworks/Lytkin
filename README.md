@@ -69,8 +69,8 @@ Antonina Samokhina
 
 ## Acknowledgements
 
-Viktor Kutkin
-Igor Tetuev
+Viktor Kutkin  
+Igor Tetuev  
 Vasily Permsky
 
 ## Foundry
