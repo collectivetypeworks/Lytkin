@@ -6,9 +6,7 @@ The typeface was created as a non-commercial initiative to support and contribut
 
 The primary sources for the development of the Old Permic characters were the scholarly works of linguist Vasily Lytkin, particularly his comparative tables documenting the various historical forms of each character. The design process was also informed by consultations with members of the language community, including users and advocates of the Old Permic script.
 
-Lytkin was designed by Danilo Borovinić and Antonina Samokhina as part of Collective Typeworks.
-
-<img width="4000" height="2300" alt="image (29)" src="https://github.com/user-attachments/assets/7f258add-2199-4141-877b-e51a9c85763c" />
+Lytkin was designed by Danilo Borovinić and Antonina Samokhina and published by Collective Typeworks.
 
 ## Scripts and Orthographies
 
@@ -31,9 +29,6 @@ Lytkin is available as a variable font with a Weight (`wght`) axis and as six st
 - Medium
 - SemiBold
 - Bold
-
-<img width="4000" height="2300" alt="image (30)" src="https://github.com/user-attachments/assets/4b2dac03-50b1-4b80-838f-1e437aee23e6" />
-
 
 ## Stylistic Sets
 
@@ -72,15 +67,15 @@ The required Python packages and versions are listed in `requirements.txt`.
 Danilo Borovinić  
 Antonina Samokhina
 
+## Foundry
+
+Collective Typeworks
+
 ## Acknowledgements
 
 Viktor Kutkin  
 Igor Tetuev  
 Vasily Permsky
-
-## Foundry
-
-Collective Typeworks
 
 ## License
 
