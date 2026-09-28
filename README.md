@@ -8,6 +8,8 @@ The primary sources for the development of the Old Permic characters were the sc
 
 Lytkin was designed by Danilo Borovinić and Antonina Samokhina and published by Collective Typeworks.
 
+<img width="4000" height="2300" alt="image (31)" src="https://github.com/user-attachments/assets/9cce8883-6af2-4971-8d2a-f9ad828cd411" />
+
 ## Scripts and Orthographies
 
 Lytkin supports Latin, Cyrillic, and Old Permic scripts, with particular attention to the writing systems used for the Komi languages. Supported orthographies include, among others:
