@@ -1,6 +1,7 @@
 # Lytkin
 <img width="4000" height="2300" alt="image (29)" src="https://github.com/user-attachments/assets/7f258add-2199-4141-877b-e51a9c85763c" />
 
+
 Lytkin is a contemporary sans serif typeface, distinguished by its comprehensive support for the Old Permic script and for most historical orthographies of the Komi languages based on Cyrillic and Latin scripts.
 
 The typeface was created as a non-commercial initiative to support and contribute to the cultural development of communities in the Komi Republic and Perm Krai. Lytkin is intended for linguists, designers, typographers, and language activists who need a contemporary typographic tool for working with the Old Permic script and the written heritage of the Komi languages.
@@ -32,6 +33,7 @@ Lytkin is available as a variable font with a Weight (`wght`) axis and as six st
 - Bold
 
 <img width="4000" height="2300" alt="image (30)" src="https://github.com/user-attachments/assets/4b2dac03-50b1-4b80-838f-1e437aee23e6" />
+
 
 ## Stylistic Sets
 
