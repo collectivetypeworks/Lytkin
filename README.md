@@ -8,7 +8,7 @@ The primary sources for the development of the Old Permic characters were the sc
 
 Lytkin was designed by Danilo Borovinić and Antonina Samokhina and published by Collective Typeworks.
 
-<img width="4000" height="2500" alt="Lytkin_Github" src="https://github.com/user-attachments/assets/3e7045e7-ec53-4d02-99ed-16c21af15bbc" />
+<img width="4000" height="2500" alt="Lytkin_Github" src="https://github.com/user-attachments/assets/87500bc6-4f1a-46c2-9303-797309395bd4" />
 
 ## Scripts and Orthographies
 
