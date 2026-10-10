@@ -75,11 +75,11 @@ Collective Typeworks
 
 ## Acknowledgements
 
-Ravid Balaliev
+Ravid Balaliev  
 Viktor Kutkin  
-Igor Tetuev
-Vasily Permsky
-Valera Lazhaneva
+Igor Tetuev  
+Vasily Permsky  
+Valera Lazhaneva  
 
 ## License
 
