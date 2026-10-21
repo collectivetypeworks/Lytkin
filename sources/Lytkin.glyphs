@@ -2,7 +2,8 @@
 .appVersion = "3532";
 .formatVersion = 3;
 DisplayStrings = (
-"/u10367.ss01/u1036F.ss01"
+"/u10367.ss01/u1036F.ss01",
+"Д/De-cy.ss04 д/de-cy.ss04"
 );
 axes = (
 {
@@ -63434,7 +63435,7 @@ note = Tjekomicyr.ss01;
 glyphname = "De-cy.ss04";
 kernLeft = altdecap;
 kernRight = altdecap;
-lastChange = "2026-10-02 18:34:53 +0000";
+lastChange = "2026-10-21 19:44:15 +0000";
 layers = (
 {
 background = {
@@ -63472,10 +63473,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(170,-160,l),
-(170,0,l),
-(593,0,l),
-(593,-160,l),
+(160,-160,l),
+(160,0,l),
+(603,0,l),
+(603,-160,l),
 (748,-160,l),
 (748,140,l),
 (665,140,l),
@@ -78940,7 +78941,7 @@ width = 637;
 glyphname = "de-cy.ss04";
 kernLeft = altdecy;
 kernRight = altdecy;
-lastChange = "2026-10-02 18:34:53 +0000";
+lastChange = "2026-10-21 19:44:24 +0000";
 layers = (
 {
 background = {
@@ -79040,9 +79041,9 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(155,0,l),
-(481,0,l),
-(481,-130,l),
+(145,0,l),
+(491,0,l),
+(491,-130,l),
 (626,-130,l),
 (626,135,l),
 (554,135,l),
@@ -79051,7 +79052,7 @@ nodes = (
 (82,135,l),
 (10,135,l),
 (10,-130,l),
-(155,-130,l)
+(145,-130,l)
 );
 },
 {
