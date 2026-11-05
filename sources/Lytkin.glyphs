@@ -1,6 +1,9 @@
 {
 .appVersion = "3532";
 .formatVersion = 3;
+DisplayStrings = (
+"/u10351.ss01 H"
+);
 axes = (
 {
 name = Weight;
@@ -98745,7 +98748,7 @@ pos = (0,80);
 ref = at;
 }
 );
-width = 933;
+width = 943;
 },
 {
 associatedMasterId = "30C7391B-4326-4088-8C10-A84636ECAFF9";
@@ -98835,7 +98838,7 @@ pos = (0,110);
 ref = at;
 }
 );
-width = 1045;
+width = 1035;
 },
 {
 associatedMasterId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -98847,7 +98850,7 @@ pos = (0,110);
 ref = at;
 }
 );
-width = 933;
+width = 943;
 },
 {
 associatedMasterId = "30C7391B-4326-4088-8C10-A84636ECAFF9";
@@ -98859,7 +98862,7 @@ pos = (0,110);
 ref = at;
 }
 );
-width = 1045;
+width = 1035;
 }
 );
 note = at;
@@ -121128,7 +121131,7 @@ note = u10350;
 glyphname = u10351.ss01;
 kernLeft = "Bur-oldperm";
 kernRight = "Bur-oldperm";
-lastChange = "2026-10-12 22:16:05 +0000";
+lastChange = "2026-11-05 14:07:11 +0000";
 layers = (
 {
 anchors = (
@@ -121246,7 +121249,7 @@ width = 864;
 anchors = (
 {
 name = top;
-pos = (416,677);
+pos = (416,687);
 }
 );
 background = {
@@ -121341,8 +121344,8 @@ nodes = (
 (668,504,o),
 (451,504,cs),
 (438,504,l),
-(438,677,l),
-(394,677,l),
+(438,687,l),
+(394,687,l),
 (394,504,l),
 (381,504,ls),
 (164,504,o),
