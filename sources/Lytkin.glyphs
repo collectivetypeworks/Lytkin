@@ -2,8 +2,9 @@
 .appVersion = "3532";
 .formatVersion = 3;
 DisplayStrings = (
-"н-н–н—н
-0+0−0×0÷0=0"
+"Удивлен вашим заявлением
+Улизнул от нас
+Нирвана далеко"
 );
 axes = (
 {
@@ -48394,7 +48395,7 @@ unicode = 1058;
 glyphname = "U-cy";
 kernLeft = "U-cy";
 kernRight = "U-cy";
-lastChange = "2026-10-24 13:28:53 +0000";
+lastChange = "2026-11-15 13:42:43 +0000";
 layers = (
 {
 anchors = (
@@ -48432,7 +48433,7 @@ nodes = (
 (339,0,l),
 (650,687,l),
 (491,687,l),
-(348,370,l),
+(348,362,l),
 (176,687,l),
 (-5,687,l),
 (268,194,l),
@@ -65661,7 +65662,7 @@ unicode = 1075;
 glyphname = "de-cy";
 kernLeft = "de-cy";
 kernRight = "de-cy";
-lastChange = "2026-10-02 18:34:53 +0000";
+lastChange = "2026-11-15 13:45:27 +0000";
 layers = (
 {
 background = {
@@ -67632,7 +67633,7 @@ unicode = 1082;
 glyphname = "el-cy";
 kernLeft = "el-cy";
 kernRight = u;
-lastChange = "2026-10-02 18:34:53 +0000";
+lastChange = "2026-11-15 13:46:06 +0000";
 layers = (
 {
 layerId = "8545119E-C153-4816-AE2E-8AF5DF255864";
@@ -136351,6 +136352,7 @@ underscore = -50;
 "@MMK_R_at.case" = -50;
 "@MMK_R_che-cy" = -10;
 "@MMK_R_colon.case" = -10;
+"@MMK_R_de-cy" = -50;
 "@MMK_R_ef-cy" = -60;
 "@MMK_R_el-cy" = -40;
 "@MMK_R_ereversed-cy" = -40;
@@ -141435,8 +141437,9 @@ underscore = -50;
 "@MMK_R_at.case" = -40;
 "@MMK_R_be-cy" = -30;
 "@MMK_R_colon.case" = -10;
+"@MMK_R_de-cy" = -60;
 "@MMK_R_ef-cy" = -60;
-"@MMK_R_el-cy" = -30;
+"@MMK_R_el-cy" = -50;
 "@MMK_R_ereversed-cy" = -40;
 "@MMK_R_guillemetrightcase" = -30;
 "@MMK_R_hyphen" = -90;
