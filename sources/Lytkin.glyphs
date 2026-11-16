@@ -145004,9 +145004,22 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2026 The Lytkin Project Authors (https://github.com/collectivetypeworks/Lytkin)";
+value = "Copyright (c) 2026 by Collective Typeworks. All rights reserved.";
 }
 );
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Designed by Danilo Borovinić, Antonina Samokhina";
+}
+);
+},
+{
+key = designerURL;
+value = "https://collectivetype.works/";
 },
 {
 key = licenses;
@@ -145018,8 +145031,25 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 );
 },
 {
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Collective Typeworks";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://collectivetype.works/";
+},
+{
 key = vendorID;
 value = CTW;
+},
+{
+key = versionString;
+value = "Version 1.000";
 }
 );
 unitsPerEm = 1000;
